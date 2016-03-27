@@ -16,8 +16,8 @@ import akka.http.scaladsl.marshallers.sprayjson.SprayJsonSupport._
 import scala.concurrent.ExecutionContext
 
 trait RestApi {
-  // import TweetProtocol._
-  // import TweetEntity._
+  import TweetProtocol._
+  import TweetEntity._
   import TweetEntityProtocol.EntityFormat3
 
   import UserProtocol._
@@ -46,7 +46,11 @@ trait RestApi {
         (post & entity(as[User])) { user =>
           complete {
             UserManager.login(user) map { r =>
-              OK -> Created(r.get.id.stringify)
+              println(r)
+              r match {
+                case Some(data) => OK -> Created(r.get.id.stringify)
+                case _ =>  OK -> Created("Invalid Username or Password")
+              }
             }
           }
         }
@@ -55,12 +59,41 @@ trait RestApi {
         (post & entity(as[User])) { user =>
           complete {
             println("req")
-            UserManager.save(user).toJson
-            
+              UserManager.save(user).toJson
           }
         }
+      } ~
+      (get & path(Segment / "follow" / Segment)) { (user_A, user_B) =>
+        complete {
+          UserManager.follow(user_A, user_B)
+        }
+      } ~
+      (get & path(Segment / "unfollow" / Segment)) { (user_A, user_B) =>
+        complete {
+          UserManager.unfollow(user_A, user_B)
+        }
       }
-    } 
+    } ~
+    pathPrefix("tweets"){
+      (post & entity(as[Tweet])) { tweet =>
+        complete {
+          TweetManager.save(tweet)
+        }
+      } ~
+      (get & path(Segment)) { id =>
+        complete {
+          TweetManager.findById(id) map { t =>
+            OK -> t
+          }
+        }
+      } ~
+      (delete & path(Segment)) { id =>
+        complete {
+          TweetManager.deleteById(id)
+        }
+      }
+
+    }
 }
 object Api extends App with RestApi {
 

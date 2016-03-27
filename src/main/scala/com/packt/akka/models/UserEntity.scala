@@ -6,7 +6,9 @@ import reactivemongo.bson.{BSONDocumentWriter, BSONDocument, BSONDocumentReader,
 
 case class UserEntity(id: BSONObjectID = BSONObjectID.generate,
                       name: String,
-                      password: String)
+                      password: String,
+                      followers: Option[List[String]] = Option(List[String]()),
+                      followings: Option[List[String]] = Option(List[String]()))
 
 object UserEntity {
   implicit def toUserEntity(user: User) = {
@@ -19,9 +21,11 @@ object UserEntity {
     
     def read(doc: BSONDocument): UserEntity = 
       UserEntity(
-        id = doc.getAs[BSONObjectID]("_id").get,
-        name = doc.getAs[String]("name").get,
-        password = doc.getAs[String]("password").get
+        id = doc.getAs[BSONObjectID]("_id").getOrElse(BSONObjectID("0")),
+        name = doc.getAs[String]("name").getOrElse("Null"),
+        password = doc.getAs[String]("password").getOrElse("Null"),
+        followers = doc.getAs[List[String]]("followers"),
+        followings = doc.getAs[List[String]]("followings")
       )
   }
   
@@ -30,7 +34,9 @@ object UserEntity {
       BSONDocument(
         "_id" -> userEntity.id,
         "name" -> userEntity.name,
-        "password" -> userEntity.password
+        "password" -> userEntity.password,
+        "followers" -> userEntity.followers,
+        "followings" -> userEntity.followings
       )
   }
 
@@ -51,5 +57,5 @@ object UserEntityProtocol extends DefaultJsonProtocol {
     }
   }
 
-  implicit val EntityFormat = jsonFormat3(UserEntity.apply)
+  implicit val EntityFormat = jsonFormat5(UserEntity.apply)
 }

@@ -13,14 +13,18 @@ object TweetManager {
 
   val collection = db[BSONCollection]("tweets")
 
-  def save(tweetEntity: TweetEntity)(implicit ec: ExecutionContext) =
+  def save(tweetEntity: TweetEntity)(implicit ec: ExecutionContext) = {
     collection.insert(tweetEntity).map(_ => Created(tweetEntity.id.stringify))
+    Created(tweetEntity.id.stringify)
+  }
   
   def findById(id: String)(implicit ec: ExecutionContext) =
     collection.find(queryById(id)).one[TweetEntity]
 
-  def deleteById(id: String)(implicit ec: ExecutionContext) =
+  def deleteById(id: String)(implicit ec: ExecutionContext) = {
     collection.remove(queryById(id)).map(_ => Deleted)
+    Created("Deleted")
+  }
 
   def find(implicit ec: ExecutionContext) =
     collection.find(emptyQuery).cursor[BSONDocument].collect[List]()
