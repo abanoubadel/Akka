@@ -1,0 +1,934 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+60 items
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/Api$$anonfun$3.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/Api$$anonfun$4.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/Api$.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/Api$delayedInit$body.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/Api.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$2$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$2$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$2$$anonfun$apply$1$$anonfun$apply$2.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$2$$anonfun$apply$1.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$2$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$2$$anonfun$apply$5$$anonfun$apply$6.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$2$$anonfun$apply$5.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$2.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$Created$$anonfun$1.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$Created$.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$Created.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$Deleted$.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$class.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/db/Created$$anonfun$1.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/db/Created$.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/db/Created.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/db/Deleted$.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/db/Deleted.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/db/MongoDB$.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/db/MongoDB.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/db/TweetManager$$anonfun$deleteById$1.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/db/TweetManager$$anonfun$save$1.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/db/TweetManager$.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/db/TweetManager.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/db/UserManager$$anonfun$deleteById$1.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/db/UserManager$$anonfun$save$1.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/db/UserManager$.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/db/UserManager.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/Tweet$.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/Tweet.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/TweetProtocol$$anonfun$1.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/TweetProtocol$.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/TweetProtocol.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/TweetEntity$.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/TweetEntity$TweetEntityBSONReader$.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/TweetEntity$TweetEntityBSONWriter$.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/TweetEntity.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/TweetEntityProtocol$$anonfun$1.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/TweetEntityProtocol$.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/TweetEntityProtocol$BSONObjectIdProtocol$.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/TweetEntityProtocol.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/User$.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/User.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserProtocol$$anonfun$1.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserProtocol$.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserProtocol.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserEntity$.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserEntity$UserEntityBSONReader$.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserEntity$UserEntityBSONWriter$.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserEntity.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserEntityProtocol$$anonfun$1.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserEntityProtocol$.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserEntityProtocol$BSONObjectIdProtocol$.class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserEntityProtocol.class
+binary dependencies:
+38 items
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/abanoub/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.12.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/abanoub/.ivy2/cache/com.typesafe.akka/akka-http-core-experimental_2.11/jars/akka-http-core-experimental_2.11-1.0.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/abanoub/.ivy2/cache/com.typesafe.akka/akka-http-experimental_2.11/jars/akka-http-experimental_2.11-1.0.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/abanoub/.ivy2/cache/com.typesafe.akka/akka-http-spray-json-experimental_2.11/jars/akka-http-spray-json-experimental_2.11-1.0.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/abanoub/.ivy2/cache/com.typesafe.akka/akka-stream-experimental_2.11/jars/akka-stream-experimental_2.11-1.0.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/abanoub/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.1.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/abanoub/.ivy2/cache/org.reactivemongo/reactivemongo-bson_2.11/jars/reactivemongo-bson_2.11-0.11.7.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/abanoub/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> /home/abanoub/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.1.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> /home/abanoub/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> /home/abanoub/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> /home/abanoub/.ivy2/cache/org.reactivemongo/reactivemongo_2.11/jars/reactivemongo_2.11-0.11.7.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> /home/abanoub/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> /home/abanoub/.ivy2/cache/org.reactivemongo/reactivemongo-bson_2.11/jars/reactivemongo-bson_2.11-0.11.7.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> /home/abanoub/.ivy2/cache/org.reactivemongo/reactivemongo_2.11/jars/reactivemongo_2.11-0.11.7.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> /home/abanoub/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> /home/abanoub/.ivy2/cache/org.reactivemongo/reactivemongo-bson_2.11/jars/reactivemongo-bson_2.11-0.11.7.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> /home/abanoub/.ivy2/cache/org.reactivemongo/reactivemongo_2.11/jars/reactivemongo_2.11-0.11.7.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> /home/abanoub/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> /home/abanoub/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.1.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> /home/abanoub/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> /home/abanoub/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.1.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> /home/abanoub/.ivy2/cache/org.reactivemongo/reactivemongo-bson_2.11/jars/reactivemongo-bson_2.11-0.11.7.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> /home/abanoub/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> /home/abanoub/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.1.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> /home/abanoub/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> /home/abanoub/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.1.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> /home/abanoub/.ivy2/cache/org.reactivemongo/reactivemongo-bson_2.11/jars/reactivemongo-bson_2.11-0.11.7.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> /home/abanoub/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+14 items
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> /media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+60 items
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.Api
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.Api$
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.Api$$anonfun$3
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.Api$$anonfun$4
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.Api$delayedInit$body
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.RestApi
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.RestApi$$anonfun$2
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.RestApi$$anonfun$2$$anonfun$apply$1
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.RestApi$$anonfun$2$$anonfun$apply$1$$anonfun$apply$2
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.RestApi$$anonfun$2$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.RestApi$$anonfun$2$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.RestApi$$anonfun$2$$anonfun$apply$5
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.RestApi$$anonfun$2$$anonfun$apply$5$$anonfun$apply$6
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.RestApi$$anonfun$2$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.RestApi$Created
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.RestApi$Created$
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.RestApi$Created$$anonfun$1
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.RestApi$Deleted$
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.RestApi$class
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> com.packt.akka.db.Created
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> com.packt.akka.db.Created$
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> com.packt.akka.db.Created$$anonfun$1
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> com.packt.akka.db.Deleted
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> com.packt.akka.db.Deleted$
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> com.packt.akka.db.MongoDB
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> com.packt.akka.db.MongoDB$
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> com.packt.akka.db.TweetManager
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> com.packt.akka.db.TweetManager$
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> com.packt.akka.db.TweetManager$$anonfun$deleteById$1
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> com.packt.akka.db.TweetManager$$anonfun$save$1
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> com.packt.akka.db.UserManager
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> com.packt.akka.db.UserManager$
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> com.packt.akka.db.UserManager$$anonfun$deleteById$1
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> com.packt.akka.db.UserManager$$anonfun$save$1
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> com.packt.akka.models.Tweet
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> com.packt.akka.models.Tweet$
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> com.packt.akka.models.TweetProtocol
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> com.packt.akka.models.TweetProtocol$
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> com.packt.akka.models.TweetProtocol$$anonfun$1
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> com.packt.akka.models.TweetEntity
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> com.packt.akka.models.TweetEntity$
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> com.packt.akka.models.TweetEntity$TweetEntityBSONReader$
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> com.packt.akka.models.TweetEntity$TweetEntityBSONWriter$
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> com.packt.akka.models.TweetEntityProtocol
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> com.packt.akka.models.TweetEntityProtocol$
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> com.packt.akka.models.TweetEntityProtocol$$anonfun$1
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> com.packt.akka.models.TweetEntityProtocol$BSONObjectIdProtocol$
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> com.packt.akka.models.User
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> com.packt.akka.models.User$
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> com.packt.akka.models.UserProtocol
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> com.packt.akka.models.UserProtocol$
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> com.packt.akka.models.UserProtocol$$anonfun$1
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> com.packt.akka.models.UserEntity
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> com.packt.akka.models.UserEntity$
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> com.packt.akka.models.UserEntity$UserEntityBSONReader$
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> com.packt.akka.models.UserEntity$UserEntityBSONWriter$
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> com.packt.akka.models.UserEntityProtocol
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> com.packt.akka.models.UserEntityProtocol$
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> com.packt.akka.models.UserEntityProtocol$$anonfun$1
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> com.packt.akka.models.UserEntityProtocol$BSONObjectIdProtocol$
+used names:
+569 items
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> $conforms
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> &
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> &&
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> ->
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> <init>
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> ==
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> ActorMaterializer
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> ActorSystem
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> AnyRef
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> Api
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> App
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> ApplyConverter
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> ClassManifestFactory
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> ConjunctionMagnet
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> Console
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> Created
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> DefaultJsonProtocol
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> Deleted
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> Directive
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> Directives
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> EntityFormat
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> EntityFormat3
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> ExecutionContext
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> Future
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> Http
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> Join
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> Marshaller
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> Materializer
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> None
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> OK
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> Predef
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> Product
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> RestApi
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> RouteResult
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> RoutingLog
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> RoutingSettings
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> RoutingSetup
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> ScalaRunTime
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> Serializable
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> SprayJsonSupport
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> StatusCodes
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> String
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> StringContext
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> StringJsonFormat
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> ToResponseMarshallable
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> TupleOps
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> TweetEntityProtocol
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> TweetManager
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> Unmarshal
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> Unmarshaller
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> User
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> UserEntity
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> UserEntityProtocol
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> UserFormat
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> UserManager
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> UserProtocol
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> _hashCode
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> _toString
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> actor
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> addByNameNullaryApply
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> addDirectiveApply
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> akka
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> apply
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> as
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> asInstanceOf
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> bindAndHandle
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> bindingFuture
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> classType
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> com
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> complete
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> concurrent
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> db
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> default
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> dispatcher
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> ec
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> enhanceRouteWithConcatenation
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> entity
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> eq
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> flatMap
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> fromActorSystem
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> fromDirective
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> fromStatusCodeAndValue
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> futureMarshaller
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> get
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> hac1
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> http
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> id
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> isInstanceOf
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> join0P
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> json
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> jsonFormat1
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> liftMarshaller
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> login
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> map
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> marshallers
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> marshalling
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> materializer
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> messageUnmarshallerFromEntityUnmarshaller
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> model
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> models
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> onComplete
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> package
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> packt
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> pathPrefix
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> pimpAny
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> post
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> println
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> qual$1
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> r
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> readLine
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> reflect
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> route
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> route2HandlerFlow
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> runtime
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> s
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> save
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> scala
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> scaladsl
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> segmentStringToPathMatcher
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> server
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> shutdown
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> singleType
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> spray
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> sprayJsValueMarshaller
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> sprayJsonMarshaller
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> sprayJsonUnmarshaller
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> sprayjson
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> stream
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> stringify
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> system
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> toJson
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> toString
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> toUserEntity
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> typedProductIterator
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> unbind
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> unmarshalling
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> user
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> util
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> x$10
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> x$11
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> x$12
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> x$13
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> x$14
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> x$15
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> x$16
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> x$17
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> x$18
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> x$19
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> x$20
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> x$9
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> ||
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> ~
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> &&
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> <init>
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> ==
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> ClassManifestFactory
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> Created
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> DefaultJsonProtocol
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> Deleted
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> None
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> Predef
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> Product
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> ScalaRunTime
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> Serializable
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> String
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> StringJsonFormat
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> UserFormat
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> _hashCode
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> _toString
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> akka
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> asInstanceOf
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> classType
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> com
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> db
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> eq
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> id
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> isInstanceOf
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> json
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> jsonFormat1
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> packt
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> println
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> reflect
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> runtime
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> scala
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> spray
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> toString
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> typedProductIterator
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> ||
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> <init>
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> AnyRef
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> ConfigFactory
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> ExecutionContext
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> Implicits
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> JavaConverters
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> MongoDB
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> MongoDriver
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> akka
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> api
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> apply
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> asScala
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> asScalaBufferConverter
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> collection
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> com
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> concurrent
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> config
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> connection
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> database
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> db
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> driver
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> getString
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> getStringList
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> global
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> load
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> packt
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> reactivemongo
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> scala
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> servers
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> typesafe
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> ->
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> <init>
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> AnyRef
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> BSONCollection
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> BSONCollectionProducer
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> BSONDocument
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> BSONDocumentIdentity
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> BSONObjectID
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> BSONObjectIDIdentity
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> Count
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> Created
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> CursorProducer
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> Deleted
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> ExecutionContext
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> List
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> MongoDB
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> Predef
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> Producer
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> QueryOpts
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> String
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> TweetEntity
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> TweetEntityBSONReader
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> TweetEntityBSONWriter
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> TweetManager
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> akka
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> api
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> apply
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> bson
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> canBuildFrom
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> collect
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> collection
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> collections
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> com
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> commands
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> concurrent
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> core
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> cursor
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> db
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> defaultCursorProducer
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> ec
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> emptyQuery
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> find
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> id
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> immutable
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> insert
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> map
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> models
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> nameValue2Producer
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> one
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> package
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> packt
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> qual$1
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> queryById
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> reactivemongo
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> remove
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> scala
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> stringify
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> tweetEntity
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> x$3
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> x$4
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> +
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> ->
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> <init>
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> AnyRef
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> BSONCollection
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> BSONCollectionProducer
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> BSONDocument
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> BSONDocumentIdentity
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> BSONObjectID
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> BSONObjectIDIdentity
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> BSONStringHandler
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> Count
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> Created
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> CursorProducer
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> Deleted
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> ExecutionContext
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> List
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> MongoDB
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> Predef
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> Producer
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> QueryOpts
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> String
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> UserEntity
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> UserEntityBSONReader
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> UserEntityBSONWriter
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> UserManager
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> akka
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> api
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> apply
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> bson
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> canBuildFrom
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> collect
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> collection
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> collections
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> com
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> commands
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> concurrent
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> core
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> cursor
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> db
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> defaultCursorProducer
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> ec
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> emptyQuery
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> find
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> id
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> immutable
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> insert
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> loginEntity
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> map
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> models
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> name
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> nameValue2Producer
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> one
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> package
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> packt
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> password
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> println
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> qual$1
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> queryById
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> queryLogin
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> reactivemongo
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> remove
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> scala
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> stringify
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> userEntity
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> x$3
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> x$4
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> &&
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> <init>
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> ==
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> AbstractFunction2
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> ClassManifestFactory
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> DefaultJsonProtocol
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> None
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> Predef
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> Product
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> ScalaRunTime
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> Serializable
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> String
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> StringJsonFormat
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> Tweet
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> TweetFormat
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> TweetProtocol
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> _hashCode
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> _toString
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> akka
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> asInstanceOf
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> author
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> body
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> classType
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> com
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> eq
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> isInstanceOf
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> json
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> jsonFormat2
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> models
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> packt
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> reflect
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> runtime
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> scala
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> spray
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> toString
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> typedProductIterator
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> ||
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> &&
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> ->
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> <init>
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> ==
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> AnyRef
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> BSONDocument
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> BSONDocumentReader
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> BSONDocumentWriter
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> BSONObjectID
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> BSONObjectIDIdentity
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> BSONObjectIdProtocol
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> BSONStringHandler
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> ClassManifestFactory
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> DefaultJsonProtocol
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> EntityFormat3
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> JsString
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> JsValue
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> None
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> Predef
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> Producer
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> Product
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> RootJsonFormat
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> ScalaRunTime
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> Serializable
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> String
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> StringJsonFormat
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> Tweet
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> TweetEntity
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> TweetEntityBSONReader
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> TweetEntityBSONWriter
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> TweetEntityProtocol
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> _hashCode
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> _toString
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> akka
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> apply
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> asInstanceOf
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> author
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> body
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> bson
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> classType
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> com
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> deserializationError
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> doc
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> eq
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> generate
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> get
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> getAs
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> id
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> isInstanceOf
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> json
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> jsonFormat3
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> models
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> nameValue2Producer
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> obj
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> package
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> packt
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> parse
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> reactivemongo
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> reflect
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> runtime
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> scala
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> spray
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> stringify
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> toString
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> tweet
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> tweetEntity
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> typedProductIterator
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> util
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> validId
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> value
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> x$1
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> x$2
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> x$3
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> ||
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> &&
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> <init>
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> ==
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> AbstractFunction2
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> ClassManifestFactory
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> DefaultJsonProtocol
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> None
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> Predef
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> Product
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> ScalaRunTime
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> Serializable
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> String
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> StringJsonFormat
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> User
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> UserFormat
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> UserProtocol
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> _hashCode
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> _toString
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> akka
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> asInstanceOf
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> classType
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> com
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> eq
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> isInstanceOf
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> json
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> jsonFormat2
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> models
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> name
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> packt
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> password
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> println
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> reflect
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> runtime
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> scala
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> spray
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> toString
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> typedProductIterator
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> ||
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> &&
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> ->
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> <init>
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> ==
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> AnyRef
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> BSONDocument
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> BSONDocumentReader
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> BSONDocumentWriter
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> BSONObjectID
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> BSONObjectIDIdentity
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> BSONObjectIdProtocol
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> BSONStringHandler
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> ClassManifestFactory
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> DefaultJsonProtocol
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> EntityFormat
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> JsString
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> JsValue
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> None
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> Predef
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> Producer
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> Product
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> RootJsonFormat
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> ScalaRunTime
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> Serializable
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> String
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> StringJsonFormat
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> User
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> UserEntity
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> UserEntityBSONReader
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> UserEntityBSONWriter
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> UserEntityProtocol
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> _hashCode
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> _toString
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> akka
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> apply
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> asInstanceOf
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> bson
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> classType
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> com
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> deserializationError
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> doc
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> eq
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> generate
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> get
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> getAs
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> id
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> isInstanceOf
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> json
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> jsonFormat3
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> models
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> name
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> nameValue2Producer
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> obj
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> package
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> packt
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> parse
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> password
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> println
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> reactivemongo
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> reflect
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> runtime
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> scala
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> spray
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> stringify
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> toString
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> typedProductIterator
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> user
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> userEntity
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> util
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> validId
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> value
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> x$1
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> x$2
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> x$3
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> ||
+product stamps:
+60 items
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/Api$$anonfun$3.class -> lastModified(1459099417000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/Api$$anonfun$4.class -> lastModified(1459099417000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/Api$.class -> lastModified(1459099417000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/Api$delayedInit$body.class -> lastModified(1459099417000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/Api.class -> lastModified(1459099417000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$2$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4.class -> lastModified(1459099417000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$2$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3.class -> lastModified(1459099417000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$2$$anonfun$apply$1$$anonfun$apply$2.class -> lastModified(1459099417000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$2$$anonfun$apply$1.class -> lastModified(1459099417000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$2$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7.class -> lastModified(1459099418000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$2$$anonfun$apply$5$$anonfun$apply$6.class -> lastModified(1459099418000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$2$$anonfun$apply$5.class -> lastModified(1459099418000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$2.class -> lastModified(1459099417000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$Created$$anonfun$1.class -> lastModified(1459099418000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$Created$.class -> lastModified(1459099418000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$Created.class -> lastModified(1459099418000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$Deleted$.class -> lastModified(1459099418000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$class.class -> lastModified(1459099418000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi.class -> lastModified(1459099417000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/db/Created$$anonfun$1.class -> lastModified(1459098692000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/db/Created$.class -> lastModified(1459098692000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/db/Created.class -> lastModified(1459098691000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/db/Deleted$.class -> lastModified(1459098692000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/db/Deleted.class -> lastModified(1459098692000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/db/MongoDB$.class -> lastModified(1459097956000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/db/MongoDB.class -> lastModified(1459097956000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/db/TweetManager$$anonfun$deleteById$1.class -> lastModified(1459098695000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/db/TweetManager$$anonfun$save$1.class -> lastModified(1459098695000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/db/TweetManager$.class -> lastModified(1459098695000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/db/TweetManager.class -> lastModified(1459098695000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/db/UserManager$$anonfun$deleteById$1.class -> lastModified(1459098692000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/db/UserManager$$anonfun$save$1.class -> lastModified(1459098692000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/db/UserManager$.class -> lastModified(1459098692000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/db/UserManager.class -> lastModified(1459098692000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/Tweet$.class -> lastModified(1459097956000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/Tweet.class -> lastModified(1459097956000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/TweetEntity$.class -> lastModified(1459097956000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/TweetEntity$TweetEntityBSONReader$.class -> lastModified(1459097956000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/TweetEntity$TweetEntityBSONWriter$.class -> lastModified(1459097956000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/TweetEntity.class -> lastModified(1459097956000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/TweetEntityProtocol$$anonfun$1.class -> lastModified(1459097956000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/TweetEntityProtocol$.class -> lastModified(1459097956000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/TweetEntityProtocol$BSONObjectIdProtocol$.class -> lastModified(1459097956000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/TweetEntityProtocol.class -> lastModified(1459097956000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/TweetProtocol$$anonfun$1.class -> lastModified(1459097957000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/TweetProtocol$.class -> lastModified(1459097957000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/TweetProtocol.class -> lastModified(1459097956000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/User$.class -> lastModified(1459097957000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/User.class -> lastModified(1459097957000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserEntity$.class -> lastModified(1459097957000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserEntity$UserEntityBSONReader$.class -> lastModified(1459097957000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserEntity$UserEntityBSONWriter$.class -> lastModified(1459097957000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserEntity.class -> lastModified(1459097957000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserEntityProtocol$$anonfun$1.class -> lastModified(1459097957000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserEntityProtocol$.class -> lastModified(1459097957000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserEntityProtocol$BSONObjectIdProtocol$.class -> lastModified(1459097957000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserEntityProtocol.class -> lastModified(1459097957000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserProtocol$$anonfun$1.class -> lastModified(1459097957000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserProtocol$.class -> lastModified(1459097957000)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserProtocol.class -> lastModified(1459097957000)
+source stamps:
+9 items
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> hash(ea113c081ef1bdf451673fa0582bc9f5c1fb1b7a)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> hash(30f32026a7424f9a7ea322a157b05d712e27e192)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> hash(c927d87a779f056aa49164e50e90e9a22457c586)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> hash(235b86870395ffcacd6a70249d3103e112ea89f9)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> hash(6311915c05a37800823c66c6353c21122051f16f)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> hash(1b2b8723c08ea4bd0fb25a91158a8d57a40d97b0)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> hash(8807df7111bde5a8eb366fc8ef650cf3613e71d5)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> hash(5856478e10004f1d153ddf516f407fa3895b8ade)
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> hash(68528e4835224ab59fa2870c0a75cae321fc3cde)
+binary stamps:
+11 items
+/home/abanoub/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.12.jar -> lastModified(1436421519000)
+/home/abanoub/.ivy2/cache/com.typesafe.akka/akka-http-core-experimental_2.11/jars/akka-http-core-experimental_2.11-1.0.jar -> lastModified(1436957975000)
+/home/abanoub/.ivy2/cache/com.typesafe.akka/akka-http-experimental_2.11/jars/akka-http-experimental_2.11-1.0.jar -> lastModified(1436958013000)
+/home/abanoub/.ivy2/cache/com.typesafe.akka/akka-http-spray-json-experimental_2.11/jars/akka-http-spray-json-experimental_2.11-1.0.jar -> lastModified(1436958041000)
+/home/abanoub/.ivy2/cache/com.typesafe.akka/akka-stream-experimental_2.11/jars/akka-stream-experimental_2.11-1.0.jar -> lastModified(1436957884000)
+/home/abanoub/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar -> lastModified(1449080878000)
+/home/abanoub/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.1.jar -> lastModified(1414500215000)
+/home/abanoub/.ivy2/cache/org.reactivemongo/reactivemongo-bson_2.11/jars/reactivemongo-bson_2.11-0.11.7.jar -> lastModified(1441358560000)
+/home/abanoub/.ivy2/cache/org.reactivemongo/reactivemongo_2.11/jars/reactivemongo_2.11-0.11.7.jar -> lastModified(1441358598000)
+/home/abanoub/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1449080878000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1458804067000)
+class names:
+11 items
+/home/abanoub/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.12.jar -> akka.actor.ActorSystem
+/home/abanoub/.ivy2/cache/com.typesafe.akka/akka-http-core-experimental_2.11/jars/akka-http-core-experimental_2.11-1.0.jar -> akka.http.scaladsl.Http$
+/home/abanoub/.ivy2/cache/com.typesafe.akka/akka-http-experimental_2.11/jars/akka-http-experimental_2.11-1.0.jar -> akka.http.scaladsl.marshalling.PredefinedToResponseMarshallers
+/home/abanoub/.ivy2/cache/com.typesafe.akka/akka-http-spray-json-experimental_2.11/jars/akka-http-spray-json-experimental_2.11-1.0.jar -> akka.http.scaladsl.marshallers.sprayjson.SprayJsonSupport$
+/home/abanoub/.ivy2/cache/com.typesafe.akka/akka-stream-experimental_2.11/jars/akka-stream-experimental_2.11-1.0.jar -> akka.stream.scaladsl.Flow
+/home/abanoub/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar -> com.typesafe.config.ConfigFactory
+/home/abanoub/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.1.jar -> spray.json.DefaultJsonProtocol
+/home/abanoub/.ivy2/cache/org.reactivemongo/reactivemongo-bson_2.11/jars/reactivemongo-bson_2.11-0.11.7.jar -> reactivemongo.bson.BSONObjectID
+/home/abanoub/.ivy2/cache/org.reactivemongo/reactivemongo_2.11/jars/reactivemongo_2.11-0.11.7.jar -> reactivemongo.api.CursorProducer$
+/home/abanoub/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Product
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+9 items
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCDKPMzAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAArc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw+iCQyHQAClVzZXJGb3JtYXRzcQB+AAvUo+DfdAACZWNzcQB+AAso0dIudAAOVW5pdEpzb25Gb3JtYXRzcQB+AAsqTrPxdAAKbGlzdEZvcm1hdHNxAH4ACzc36QN0AAx2ZWN0b3JGb3JtYXRzcQB+AAsQAfvYdAAGc3lzdGVtc3EAfgALqHzmXHQAElJvb3RKc09iamVjdEZvcm1hdHNxAH4ACzxefRx0ABFCb29sZWFuSnNvbkZvcm1hdHNxAH4AC9QSw8N0AAlzZXRGb3JtYXRzcQB+AAsCdWc2dAARUm9vdEpzQXJyYXlGb3JtYXRzcQB+AAstpnZSdAANSnNWYWx1ZUZvcm1hdHNxAH4AC45ikT50AA5Mb25nSnNvbkZvcm1hdHNxAH4AC6594Sd0AAx0dXBsZTFGb3JtYXRzcQB+AAtbMs18dAAQaW5kZXhlZFNlcUZvcm1hdHNxAH4ACypPrb90AAxvcHRpb25Gb3JtYXRzcQB+AAsbcvhfdAAPbGluZWFyU2VxRm9ybWF0c3EAfgAL4hVmr3QAEFN5bWJvbEpzb25Gb3JtYXRzcQB+AAvIx4gNdAAMdHVwbGU1Rm9ybWF0c3EAfgALMTnoXHQADHR1cGxlM0Zvcm1hdHNxAH4ACwzQl2V0ABJpbW1MaW5lYXJTZXFGb3JtYXRzcQB+AAvcKXzsdAAMdHVwbGU3Rm9ybWF0c3EAfgALlfCxWHQADGltbVNldEZvcm1hdHNxAH4AC9tGs7B0AAxlaXRoZXJGb3JtYXRzcQB+AAuKEAP+dAAOQ2hhckpzb25Gb3JtYXRzcQB+AAstbmcfdAAUQmlnRGVjaW1hbEpzb25Gb3JtYXRzcQB+AAtSbk3bdAAPU2hvcnRKc29uRm9ybWF0c3EAfgALJrbr+nQADHR1cGxlNkZvcm1hdHNxAH4AC/rqbUl0ABBTdHJpbmdKc29uRm9ybWF0c3EAfgALQPUfjHQAC2FycmF5Rm9ybWF0c3EAfgALlLJ9/3QAEWltbUl0ZXJhYmxlRm9ybWF0c3EAfgALivJd13QADkJ5dGVKc29uRm9ybWF0c3EAfgAL9X3K13QADG1hdGVyaWFsaXplcnNxAH4AC/fqvPh0AAx0dXBsZTJGb3JtYXRzcQB+AAv18n4TdAATaW1tSW5kZXhlZFNlcUZvcm1hdHNxAH4AC/KluI50AAxpbW1TZXFGb3JtYXRzcQB+AAuCSdvqdAAMdHVwbGU0Rm9ybWF0c3EAfgALfDmTi3QAD0Zsb2F0SnNvbkZvcm1hdHNxAH4AC7H0tRJ0AA5pdGVyYWJsZUZvcm1hdHNxAH4AC3rZjXB0AA1JbnRKc29uRm9ybWF0c3EAfgALj4DqnXQAEERvdWJsZUpzb25Gb3JtYXRzcQB+AAtYvfbDdAAJbWFwRm9ybWF0c3EAfgALqLK9yHQACXNlcUZvcm1hdHNxAH4AC0Hi7890ABBCaWdJbnRKc29uRm9ybWF0dXEAfgAJAAAAUHNxAH4AC4iNWsV0AAZub3RpZnlzcQB+AAtJ5LdRdAAEcmVhZHNxAH4AC8nRQbV0AAlmcm9tRmllbGRzcQB+AAt7LBgLdAALanNvbkZvcm1hdDlzcQB+AAvJ+a3ldAAHdW5hcHBseXNxAH4AC+ZVM050AAxqc29uRm9ybWF0MTZzcQB+AAsK45/xdAAManNvbkZvcm1hdDIwc3EAfgALJjklEHQABHdhaXRzcQB+AAuf/nobdAAGdmlhU2Vxc3EAfgALhMhqNnQACmxhenlGb3JtYXRzcQB+AAviNwEldAAHQ3JlYXRlZHNxAH4AC3TMSvt0AA0kYXNJbnN0YW5jZU9mc3EAfgALjmCRXnQADGpzb25Gb3JtYXQxMnNxAH4AC6Ais650AAxqc29uRm9ybWF0MTNzcQB+AAv1t5gbdAALanNvbkZvcm1hdDJzcQB+AAtAPz/fdAAHRGVsZXRlZHNxAH4AC9jPQiF0AAxwcm9kdWN0QXJpdHlzcQB+AAtBc0vXdAAGZXF1YWxzc3EAfgALsV3uVHQAC2pzb25Gb3JtYXQ2c3EAfgAL6mUGN3QADGFzSW5zdGFuY2VPZnNxAH4ACxD3gGV0AA5leGVjdXRpb25TdGFydHNxAH4ACxVvPIZ0AAxqc29uRm9ybWF0MTVzcQB+AAutjbpWdAACSkZzcQB+AAtCym2rdAAMc3luY2hyb25pemVkc3EAfgAL2tr1R3QADGpzb25Gb3JtYXQxMXNxAH4AC7RliJZ0AA0kaXNJbnN0YW5jZU9mc3EAfgAL93WJT3QAC2pzb25Gb3JtYXQ1c3EAfgALVWzvNHQADGpzb25Gb3JtYXQyMXNxAH4ACzG1swN0ABRwcm9kdWN0RWxlbWVudDJGaWVsZHNxAH4ACyyXUYp0AApyb290Rm9ybWF0c3EAfgALSB7OMXQAHnByb2R1Y3RFbGVtZW50MkZpZWxkJGRlZmF1bHQkNHNxAH4ACw/fylJ0AAxqc29uRm9ybWF0MTRzcQB+AAsKhNkedAAHUmVzdEFwaXNxAH4AC6Xyk1Z0AAhjYW5FcXVhbHNxAH4AC3fkIqF0AAtqc29uRm9ybWF0MXNxAH4AC7jb7Jl0AA5yb290SnNvbkZvcm1hdHNxAH4AC6sEPYJ0AARtYWluc3EAfgALlexp7XQADXByb2R1Y3RQcmVmaXhzcQB+AAsYIFBldAAManNvbkZvcm1hdDE5c3EAfgALeBaFunQACW5vdGlmeUFsbHNxAH4AC+LM7rx0AAhkZWxlZ2F0ZXNxAH4ACwRCS1t0AAxpc0luc3RhbmNlT2ZzcQB+AAvpYowEdAAGPGluaXQ+c3EAfgALde/2A3QAAmlkc3EAfgALupPDgnQABWFwcGx5c3EAfgALwSB7y3QAC2pzb25Gb3JtYXQ0c3EAfgALpJF81nQAAj09c3EAfgALIxwYUXQADWJpbmRpbmdGdXR1cmVzcQB+AAsBWzVgdAAFY2xvbmVzcQB+AAsjjQtKdAAManNvbkZvcm1hdDEwc3EAfgAL12f2aHQAC2pzb25Gb3JtYXQwc3EAfgALMjAbHHQADGpzb25Gb3JtYXQyMnNxAH4ACw+Ic2J0AAxPcHRpb25Gb3JtYXRzcQB+AAvgx2ifdAAManNvbkZvcm1hdDE4c3EAfgAL6822E3QABiRpbml0JHNxAH4AC8m7/cV0AARjb3B5c3EAfgALjM906nQACHRvU3RyaW5nc3EAfgALXh3qR3QABGFyZ3NzcQB+AAuXI833dAAKanNvbkZvcm1hdHNxAH4AC23sD7Z0AAIhPXNxAH4AC3sauLB0AAtqc29uRm9ybWF0OHNxAH4AC8PjAMJ0AAVyb3V0ZXNxAH4AC8IKSpB0AAhnZXRDbGFzc3NxAH4AC2Cy4CF0AA5jb3B5JGRlZmF1bHQkMXNxAH4AC1qr8KR0AANBcGlzcQB+AAuDCvstdAACbmVzcQB+AAvKKJ8pdAAEbGlmdHNxAH4AC+kcLMl0AAtqc29uRm9ybWF0M3NxAH4AC4p6Q8d0AAJlcXNxAH4AC2slo7N0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAvB9c7ddAAFd3JpdGVzcQB+AAsOwd7AdAAKc2FmZVJlYWRlcnNxAH4AC6Gae/90AAtkZWxheWVkSW5pdHNxAH4AC7OTHRN0AAIjI3NxAH4ACwmJxHd0AAhmaW5hbGl6ZXNxAH4ACxgp/CB0AA5wcm9kdWN0RWxlbWVudHNxAH4AC45QqcV0AAhoYXNoQ29kZXNxAH4AC9M+Qgx0ABFleHRyYWN0RmllbGROYW1lc3NxAH4AC5LYLyV0AAxqc29uRm9ybWF0MTdzcQB+AAvFmdHYdAALanNvbkZvcm1hdDdzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgENeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHABdAAWY29tLnBhY2t0LmFra2EuUmVzdEFwaXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgElc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AQ1MAAlpbmhlcml0ZWRxAH4BDUwAB3BhcmVudHNxAH4BDXhxAH4BKnNxAH4BJXVxAH4BCAAAAABzcQB+ASV1cQB+AQgAAAAAc3EAfgEldXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgEpdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgEpc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgFCdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgFDc3EAfgE2dAADQW55c3EAfgE6c3EAfgE9dXEAfgFAAAAAAnNxAH4BQnQABXNjYWxhcQB+AUlzcQB+AQpxAH4BF3VxAH4BGAAAAABzcQB+ARoAdAASY29tLnBhY2t0LmFra2EuQXBpdXEAfgEdAAAAAH5xAH4BH3QABk1vZHVsZXVxAH4BIwAAAAJ0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3QAEHNjYWxhLmRlcHJlY2F0ZWRzcQB+ASVxAH4BK3NxAH4BJXNxAH4BLXNxAH4BJXVxAH4BCAAAAABzcQB+ASV1cQB+AQgAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AQ5xAH4BF3VxAH4BGAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AWN4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgAMTAAFdmFsdWVxAH4ADHhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3EAfgE2dAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcQB+ATpzcQB+AT11cQB+AUAAAAACc3EAfgFCcQB+AVBxAH4BSXNxAH4BGgBxAH4ArXVxAH4BHQAAAABzcQB+ATZ0AARVbml0cQB+AXJ1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADEwAA3RwZXEAfgFjeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgEgdAAFUGxhaW5xAH4A13NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4BN1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4BKXNxAH4BNnQABUFycmF5cQB+AXJ1cQB+ATQAAAABc3EAfgE2dAAGU3RyaW5nc3EAfgE6c3EAfgE9dXEAfgFAAAAAA3NxAH4BQnEAfgFFc3EAfgFCcQB+AUdxAH4BSXNxAH4BJXVxAH4BNAAAAAVzcQB+ATZ0AAdSZXN0QXBpc3EAfgE6c3EAfgE9dXEAfgFAAAAABHNxAH4BQnQAA2NvbXNxAH4BQnQABXBhY2t0c3EAfgFCdAAEYWtrYXEAfgFJc3EAfgE2dAADQXBwcQB+AXJzcQB+ATZ0AAtEZWxheWVkSW5pdHEAfgFyc3EAfgE2cQB+ATlxAH4Bj3NxAH4BNnEAfgFLcQB+AXJ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAA3NyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAljb20ucGFja3RzcQB+Aal0AA5jb20ucGFja3QuYWtrYXNxAH4BqXQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU7kaHoh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABOL21lZGlhL2FiYW5vdWIvRTQzQzY5MDkzQzY4RDdENi9JVEkgT1MvQWtrYS9yZXN0LWFwaS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU6hE8CB7xvfRRZz+gWCvJ9cH7G3o=
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAI4YIqAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAoc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwT5zIgHQAClVzZXJGb3JtYXRzcQB+AAuaU69FdAAOVW5pdEpzb25Gb3JtYXRzcQB+AAtrK7jbdAAKbGlzdEZvcm1hdHNxAH4AC4b9p590AAx2ZWN0b3JGb3JtYXRzcQB+AAvyuK5QdAASUm9vdEpzT2JqZWN0Rm9ybWF0c3EAfgAL+Y5zcnQAEUJvb2xlYW5Kc29uRm9ybWF0c3EAfgALeVXgzXQACXNldEZvcm1hdHNxAH4AC9QaXPR0ABFSb290SnNBcnJheUZvcm1hdHNxAH4AC/2nA5h0AA1Kc1ZhbHVlRm9ybWF0c3EAfgALW27Hq3QADkxvbmdKc29uRm9ybWF0c3EAfgALI480W3QADHR1cGxlMUZvcm1hdHNxAH4AC7W1/vx0ABBpbmRleGVkU2VxRm9ybWF0c3EAfgAL+hDgMnQADG9wdGlvbkZvcm1hdHNxAH4AC9XUfy50AA9saW5lYXJTZXFGb3JtYXRzcQB+AAuUHEPZdAAQU3ltYm9sSnNvbkZvcm1hdHNxAH4ACxxdUG10AAx0dXBsZTVGb3JtYXRzcQB+AAtgxq8WdAAMdHVwbGUzRm9ybWF0c3EAfgALv0aNk3QAEmltbUxpbmVhclNlcUZvcm1hdHNxAH4AC1PsEJd0AAx0dXBsZTdGb3JtYXRzcQB+AAsh6X9ldAAMaW1tU2V0Rm9ybWF0c3EAfgALWCmeb3QADGVpdGhlckZvcm1hdHNxAH4AC/m2uWB0AA5DaGFySnNvbkZvcm1hdHNxAH4AC0LHrdh0ABRCaWdEZWNpbWFsSnNvbkZvcm1hdHNxAH4ACxHUctV0AA9TaG9ydEpzb25Gb3JtYXRzcQB+AAukdfgjdAAMdHVwbGU2Rm9ybWF0c3EAfgALQQlXhXQAEFN0cmluZ0pzb25Gb3JtYXRzcQB+AAtHUDiodAALYXJyYXlGb3JtYXRzcQB+AAutlK2hdAARaW1tSXRlcmFibGVGb3JtYXRzcQB+AAu/3lJRdAAOQnl0ZUpzb25Gb3JtYXRzcQB+AAt176+TdAAMdHVwbGUyRm9ybWF0c3EAfgALlRrcOnQAE2ltbUluZGV4ZWRTZXFGb3JtYXRzcQB+AAuLWv5FdAAMaW1tU2VxRm9ybWF0c3EAfgALxY3ZdXQADHR1cGxlNEZvcm1hdHNxAH4AC/+v1O50AA9GbG9hdEpzb25Gb3JtYXRzcQB+AAtJybg1dAAOaXRlcmFibGVGb3JtYXRzcQB+AAtFDDNtdAANSW50SnNvbkZvcm1hdHNxAH4AC3b4OCp0ABBEb3VibGVKc29uRm9ybWF0c3EAfgAL79z4FHQACW1hcEZvcm1hdHNxAH4AC+QS1uR0AAlzZXFGb3JtYXRzcQB+AAvb9tB4dAAQQmlnSW50SnNvbkZvcm1hdHVxAH4ACQAAAEhzcQB+AAu5BMR9dAAGbm90aWZ5c3EAfgALCukOYnQABHJlYWRzcQB+AAuD5jMZdAAJZnJvbUZpZWxkc3EAfgALCofRqXQAC2pzb25Gb3JtYXQ5c3EAfgALwh0h+XQAB3VuYXBwbHlzcQB+AAsD+kxOdAAManNvbkZvcm1hdDE2c3EAfgALqnwg4nQADGpzb25Gb3JtYXQyMHNxAH4AC1YbdjN0AAR3YWl0c3EAfgALu5mlDnQABnZpYVNlcXNxAH4AC6Ytgil0AApsYXp5Rm9ybWF0c3EAfgAL03x0MnQAB0NyZWF0ZWRzcQB+AAszAGB8dAANJGFzSW5zdGFuY2VPZnNxAH4AC60tOuV0AAxqc29uRm9ybWF0MTJzcQB+AAvaV8BqdAAManNvbkZvcm1hdDEzc3EAfgAL3TNg1HQAC2pzb25Gb3JtYXQyc3EAfgALXXthU3QAB0RlbGV0ZWRzcQB+AAtHVjnHdAAMcHJvZHVjdEFyaXR5c3EAfgALfPYup3QABmVxdWFsc3NxAH4ACxLVSsp0AAtqc29uRm9ybWF0NnNxAH4ACxgGf110AAxhc0luc3RhbmNlT2ZzcQB+AAs06cdndAAManNvbkZvcm1hdDE1c3EAfgALPSSYhXQAAkpGc3EAfgALPXA8I3QADHN5bmNocm9uaXplZHNxAH4AC7OyqwJ0AAxqc29uRm9ybWF0MTFzcQB+AAuoAbA9dAANJGlzSW5zdGFuY2VPZnNxAH4AC3be50p0AAtqc29uRm9ybWF0NXNxAH4AC7LQhzx0AAxqc29uRm9ybWF0MjFzcQB+AAuIkEGwdAAUcHJvZHVjdEVsZW1lbnQyRmllbGRzcQB+AAu7f07AdAAKcm9vdEZvcm1hdHNxAH4AC1/WYcR0AB5wcm9kdWN0RWxlbWVudDJGaWVsZCRkZWZhdWx0JDRzcQB+AAvkIBGRdAAManNvbkZvcm1hdDE0c3EAfgALEdbF5HQACGNhbkVxdWFsc3EAfgALdDYS+nQAC2pzb25Gb3JtYXQxc3EAfgALihCVIXQADnJvb3RKc29uRm9ybWF0c3EAfgALHqpUL3QADXByb2R1Y3RQcmVmaXhzcQB+AAureZQEdAAManNvbkZvcm1hdDE5c3EAfgALCjEfJ3QACW5vdGlmeUFsbHNxAH4AC5MmpcZ0AAhkZWxlZ2F0ZXNxAH4AC9Sh8j90AAxpc0luc3RhbmNlT2ZzcQB+AAvCMycddAAGPGluaXQ+c3EAfgALh6HPJ3QAAmlkc3EAfgALHPEn1XQABWFwcGx5c3EAfgALmk7Fw3QAC2pzb25Gb3JtYXQ0c3EAfgALkRATVHQAAj09c3EAfgALeYJ5Z3QABWNsb25lc3EAfgALV1Xe8HQADGpzb25Gb3JtYXQxMHNxAH4AC2eNei50AAtqc29uRm9ybWF0MHNxAH4ACxhdG8B0AAxqc29uRm9ybWF0MjJzcQB+AAslgFt1dAAMT3B0aW9uRm9ybWF0c3EAfgAL6zU71XQADGpzb25Gb3JtYXQxOHNxAH4AC3UWDPV0AAYkaW5pdCRzcQB+AAtnHB0ZdAAEY29weXNxAH4AC/NJrUZ0AAh0b1N0cmluZ3NxAH4AC3pkqxR0AApqc29uRm9ybWF0c3EAfgALuOZaZnQAAiE9c3EAfgALro747nQAC2pzb25Gb3JtYXQ4c3EAfgAL/b1BcHQACGdldENsYXNzc3EAfgALz39WU3QADmNvcHkkZGVmYXVsdCQxc3EAfgALDemYSnQAAm5lc3EAfgAL2rlG7nQABGxpZnRzcQB+AAufheFtdAALanNvbkZvcm1hdDNzcQB+AAv4pZlEdAACZXFzcQB+AAt61PPkdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALbzcW+3QABXdyaXRlc3EAfgAL8mM0kXQACnNhZmVSZWFkZXJzcQB+AAvS511AdAACIyNzcQB+AAskelkndAAIZmluYWxpemVzcQB+AAsXiu8+dAAOcHJvZHVjdEVsZW1lbnRzcQB+AAvtIUR5dAAIaGFzaENvZGVzcQB+AAtwGyCddAARZXh0cmFjdEZpZWxkTmFtZXNzcQB+AAt8LqmDdAAManNvbkZvcm1hdDE3c3EAfgALyY9EsXQAC2pzb25Gb3JtYXQ3c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAA3NyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4A93hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAGWNvbS5wYWNrdC5ha2thLmRiLkNyZWF0ZWR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4BD3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgD3TAAJaW5oZXJpdGVkcQB+APdMAAdwYXJlbnRzcQB+APd4cQB+ARRzcQB+AQ91cQB+APIAAAAAc3EAfgEPdXEAfgDyAAAAAHNxAH4BD3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4BE3QADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4BE3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4BLXNxAH4BIHEAfgEjc3EAfgEkc3EAfgEndXEAfgEqAAAAA3NxAH4BLHQABGphdmFzcQB+ASx0AAJpb3EAfgExc3EAfgEgdAAHUHJvZHVjdHEAfgEmc3EAfgEgdAAGRXF1YWxzcQB+ASZzcQB+ASB0AAZPYmplY3RzcQB+ASRzcQB+ASd1cQB+ASoAAAADc3EAfgEscQB+ATdzcQB+ASx0AARsYW5ncQB+ATFzcQB+ASB0AANBbnlxAH4BJnNxAH4A9HEAfgEBdXEAfgECAAAAAHNxAH4BBAB0ABljb20ucGFja3QuYWtrYS5kYi5EZWxldGVkdXEAfgEHAAAAAH5xAH4BCXQABk1vZHVsZXVxAH4BDQAAAABzcQB+AQ9xAH4BFXNxAH4BD3NxAH4BF3NxAH4BD3VxAH4A8gAAAABzcQB+AQ91cQB+APIAAAAAc3EAfgEPdXEAfgEeAAAABnNxAH4BIHEAfgEjc3EAfgEkc3EAfgEndXEAfgEqAAAAAnNxAH4BLHEAfgEvcQB+ATFzcQB+ASBxAH4BI3NxAH4BJHNxAH4BJ3VxAH4BKgAAAANzcQB+ASxxAH4BN3NxAH4BLHQAAmlvcQB+ATFzcQB+ASBxAH4BO3EAfgFac3EAfgEgdAAGRXF1YWxzcQB+AVpzcQB+ASBxAH4BP3NxAH4BJHNxAH4BJ3VxAH4BKgAAAANzcQB+ASxxAH4BN3NxAH4BLHEAfgFFcQB+ATFzcQB+ASBxAH4BR3EAfgFac3EAfgD0cQB+AQF1cQB+AQIAAAAAc3EAfgEEAHQAGWNvbS5wYWNrdC5ha2thLmRiLkNyZWF0ZWR1cQB+AQcAAAAAcQB+AU11cQB+AQ0AAAAAc3EAfgEPcQB+ARVzcQB+AQ9zcQB+ARdzcQB+AQ91cQB+APIAAAAAc3EAfgEPdXEAfgDyAAAAAHNxAH4BD3VxAH4BHgAAAAtzcQB+ASBxAH4BI3NxAH4BJHNxAH4BJ3VxAH4BKgAAAAJzcQB+ASxxAH4BL3EAfgExc3EAfgEgcQB+ASNzcQB+ASRzcQB+ASd1cQB+ASoAAAADc3EAfgEscQB+ATdzcQB+ASx0AAJpb3EAfgExc3EAfgEgdAATRGVmYXVsdEpzb25Qcm90b2NvbHNxAH4BJHNxAH4BJ3VxAH4BKgAAAANzcQB+ASx0AAVzcHJheXNxAH4BLHQABGpzb25xAH4BMXNxAH4BIHQAEUFkZGl0aW9uYWxGb3JtYXRzcQB+AYxzcQB+ASB0AA5Qcm9kdWN0Rm9ybWF0c3EAfgGMc3EAfgEgdAAXUHJvZHVjdEZvcm1hdHNJbnN0YW5jZXNxAH4BjHNxAH4BIHQAEUNvbGxlY3Rpb25Gb3JtYXRzcQB+AYxzcQB+ASB0AA9TdGFuZGFyZEZvcm1hdHNxAH4BjHNxAH4BIHQADEJhc2ljRm9ybWF0c3EAfgGMc3EAfgEgcQB+AT9zcQB+ASRzcQB+ASd1cQB+ASoAAAADc3EAfgEscQB+ATdzcQB+ASxxAH4BRXEAfgExc3EAfgEgcQB+AUdxAH4Bf3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQACWNvbS5wYWNrdHNxAH4BqHQADmNvbS5wYWNrdC5ha2thc3EAfgGodAADY29tc3EAfgGodAARY29tLnBhY2t0LmFra2EuZGJzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVO5DwmJdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQATi9tZWRpYS9hYmFub3ViL0U0M0M2OTA5M0M2OEQ3RDYvSVRJIE9TL0Fra2EvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFDDzICanQk+afqMioVewXXEuJ+GS
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDVQklRAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cOucQ7V0AAZub3RpZnlzcQB+AAwAWsKWdAAIZGF0YWJhc2VzcQB+AAzfGEordAAEd2FpdHNxAH4ADNqwBzl0AA0kYXNJbnN0YW5jZU9mc3EAfgAMJ3fiq3QABmVxdWFsc3NxAH4ADOf1hih0AAxhc0luc3RhbmNlT2ZzcQB+AAxxkXJmdAAMc3luY2hyb25pemVkc3EAfgAMuY78hHQAAmRic3EAfgAMgKPTnHQADSRpc0luc3RhbmNlT2ZzcQB+AAxDYd+2dAAGY29uZmlnc3EAfgAM1lgRJXQAB01vbmdvREJzcQB+AAxta+N9dAAJbm90aWZ5QWxsc3EAfgAMCVIggXQAB3NlcnZlcnNzcQB+AAzVFUS0dAAMaXNJbnN0YW5jZU9mc3EAfgAMWtTsMHQABmRyaXZlcnNxAH4ADDryUBt0AAI9PXNxAH4ADH101A50AAVjbG9uZXNxAH4ADGxW9/J0AAh0b1N0cmluZ3NxAH4ADKxmLIJ0AAIhPXNxAH4ADO5p0MN0AApjb25uZWN0aW9uc3EAfgAMF9v4jnQACGdldENsYXNzc3EAfgAMQZOYinQAAm5lc3EAfgAM8KcInnQAAmVxc3EAfgAMyuMxHXQAAiMjc3EAfgAMttCu9nQACGZpbmFsaXplc3EAfgAMGaf47nQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AS3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAGWNvbS5wYWNrdC5ha2thLmRiLk1vbmdvREJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGNzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AS0wACWluaGVyaXRlZHEAfgBLTAAHcGFyZW50c3EAfgBLeHEAfgBoc3EAfgBjdXEAfgBGAAAAAHNxAH4AY3VxAH4ARgAAAABzcQB+AGN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGd0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIB0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIFzcQB+AHR0AANBbnlzcQB+AHhzcQB+AHt1cQB+AH4AAAACc3EAfgCAdAAFc2NhbGFxAH4Ah3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACWNvbS5wYWNrdHNxAH4AkXQADmNvbS5wYWNrdC5ha2thc3EAfgCRdAADY29tc3EAfgCRdAARY29tLnBhY2t0LmFra2EuZGJzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVO5A8kgdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATi9tZWRpYS9hYmFub3ViL0U0M0M2OTA5M0M2OEQ3RDYvSVRJIE9TL0Fra2EvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFMkn2Hp3nwVqpJFk5Q6Q6aIkV8WG
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD5iJitAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAiIEud0AAZub3RpZnlzcQB+AAzGTlBVdAAEZmluZHNxAH4ADD2OpnF0AAR3YWl0c3EAfgAMXGP2LXQADFR3ZWV0TWFuYWdlcnNxAH4ADAwmYbN0AA0kYXNJbnN0YW5jZU9mc3EAfgAM3dzfiXQACmNvbGxlY3Rpb25zcQB+AAxruv9LdAAGZXF1YWxzc3EAfgAM6aCZm3QADGFzSW5zdGFuY2VPZnNxAH4ADHyli0x0AAxzeW5jaHJvbml6ZWRzcQB+AAxkrZEOdAANJGlzSW5zdGFuY2VPZnNxAH4ADELf0310AAlub3RpZnlBbGxzcQB+AAwwyCO+dAAMaXNJbnN0YW5jZU9mc3EAfgAM3siV8HQAAj09c3EAfgAMbXarWHQABWNsb25lc3EAfgAMCO4T/XQACHRvU3RyaW5nc3EAfgAMWDA+wnQAAiE9c3EAfgAMq409UXQACGdldENsYXNzc3EAfgAMSox6f3QACGZpbmRCeUlkc3EAfgAMJ1WqNnQABHNhdmVzcQB+AAw2T8gfdAACbmVzcQB+AAzgpyhgdAACZXFzcQB+AAz4PWRddAACIyNzcQB+AAyeTnvJdAAIZmluYWxpemVzcQB+AAxSYc5TdAAIaGFzaENvZGVzcQB+AAy+bqy/dAAKZGVsZXRlQnlJZHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AB5jb20ucGFja3QuYWtrYS5kYi5Ud2VldE1hbmFnZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ASUwACWluaGVyaXRlZHEAfgBJTAAHcGFyZW50c3EAfgBJeHEAfgBmc3EAfgBhdXEAfgBEAAAAAHNxAH4AYXVxAH4ARAAAAABzcQB+AGF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGV0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AH50AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH9zcQB+AHJ0AANBbnlzcQB+AHZzcQB+AHl1cQB+AHwAAAACc3EAfgB+dAAFc2NhbGFxAH4AhXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACWNvbS5wYWNrdHNxAH4Aj3QADmNvbS5wYWNrdC5ha2thc3EAfgCPdAADY29tc3EAfgCPdAARY29tLnBhY2t0LmFra2EuZGJzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVO5Dyo/dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATi9tZWRpYS9hYmFub3ViL0U0M0M2OTA5M0M2OEQ3RDYvSVRJIE9TL0Fra2EvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFCNbhocDlf/KzWpwJJ0xA+ES6on5
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCPOWuMAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cDDoyBt0AAZub3RpZnlzcQB+AAzabupvdAAEZmluZHNxAH4ADD5Vp8R0AAR3YWl0c3EAfgAMvDeYIHQADSRhc0luc3RhbmNlT2ZzcQB+AAxhZJ0mdAAKY29sbGVjdGlvbnNxAH4ADPE5+6x0AAZlcXVhbHNzcQB+AAyy81d+dAAMYXNJbnN0YW5jZU9mc3EAfgAMOcSOEHQADHN5bmNocm9uaXplZHNxAH4ADHrKxwx0AA0kaXNJbnN0YW5jZU9mc3EAfgAM0TaaYHQAC1VzZXJNYW5hZ2Vyc3EAfgAMz8O8vnQACW5vdGlmeUFsbHNxAH4ADCQF2PJ0AAxpc0luc3RhbmNlT2ZzcQB+AAxNtnRVdAACPT1zcQB+AAz3eEUJdAAFY2xvbmVzcQB+AAwh7p+gdAAIdG9TdHJpbmdzcQB+AAxnswYedAACIT1zcQB+AAz/ASY+dAAIZ2V0Q2xhc3NzcQB+AAw82o4UdAAIZmluZEJ5SWRzcQB+AAyc8QVFdAAFbG9naW5zcQB+AAwAIo7OdAAEc2F2ZXNxAH4ADBbURAd0AAJuZXNxAH4ADBqO+gR0AAJlcXNxAH4ADOEH/TJ0AAIjI3NxAH4ADLJol3l0AAhmaW5hbGl6ZXNxAH4ADN98uD50AAhoYXNoQ29kZXNxAH4ADBOt31l0AApkZWxldGVCeUlkc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AS3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAHWNvbS5wYWNrdC5ha2thLmRiLlVzZXJNYW5hZ2VydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBjc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEtMAAlpbmhlcml0ZWRxAH4AS0wAB3BhcmVudHNxAH4AS3hxAH4AaHNxAH4AY3VxAH4ARgAAAABzcQB+AGN1cQB+AEYAAAAAc3EAfgBjdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBndAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBnc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCAdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCBc3EAfgB0dAADQW55c3EAfgB4c3EAfgB7dXEAfgB+AAAAAnNxAH4AgHQABXNjYWxhcQB+AId1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABHNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAljb20ucGFja3RzcQB+AJF0AA5jb20ucGFja3QuYWtrYXNxAH4AkXQAA2NvbXNxAH4AkXQAEWNvbS5wYWNrdC5ha2thLmRic3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFTuQ8JiXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AE4vbWVkaWEvYWJhbm91Yi9FNDNDNjkwOTNDNjhEN0Q2L0lUSSBPUy9Ba2thL3Jlc3QtYXBpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRjEZFcBaN4AII8ZsY1PCESIFHxbw==
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDDX2tDAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAoc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwOoo01HQADlVuaXRKc29uRm9ybWF0c3EAfgALrdkC53QACmxpc3RGb3JtYXRzcQB+AAsoBncedAAMdmVjdG9yRm9ybWF0c3EAfgALizuWHXQAElJvb3RKc09iamVjdEZvcm1hdHNxAH4AC6Tr5yp0ABFCb29sZWFuSnNvbkZvcm1hdHNxAH4AC0rqYnd0AAlzZXRGb3JtYXRzcQB+AAswTtB9dAARUm9vdEpzQXJyYXlGb3JtYXRzcQB+AAtHwL9udAANSnNWYWx1ZUZvcm1hdHNxAH4AC44NZbJ0AA5Mb25nSnNvbkZvcm1hdHNxAH4ACzwkyct0AAx0dXBsZTFGb3JtYXRzcQB+AAtJIzW4dAAQaW5kZXhlZFNlcUZvcm1hdHNxAH4ACwV29Bt0AAxvcHRpb25Gb3JtYXRzcQB+AAulN2GAdAAPbGluZWFyU2VxRm9ybWF0c3EAfgALLBTKrnQAC1R3ZWV0Rm9ybWF0c3EAfgALGfTOynQAEFN5bWJvbEpzb25Gb3JtYXRzcQB+AAuPUX2xdAAMdHVwbGU1Rm9ybWF0c3EAfgALKg9+QnQADHR1cGxlM0Zvcm1hdHNxAH4AC/RSgjJ0ABJpbW1MaW5lYXJTZXFGb3JtYXRzcQB+AAunyUjFdAAMdHVwbGU3Rm9ybWF0c3EAfgALShMA7HQADGltbVNldEZvcm1hdHNxAH4AC+H5MwF0AAxlaXRoZXJGb3JtYXRzcQB+AAvtJPgMdAAOQ2hhckpzb25Gb3JtYXRzcQB+AAu0/ftTdAAUQmlnRGVjaW1hbEpzb25Gb3JtYXRzcQB+AAvsUR1ndAAPU2hvcnRKc29uRm9ybWF0c3EAfgALyVnzd3QADHR1cGxlNkZvcm1hdHNxAH4AC3G2Gcx0ABBTdHJpbmdKc29uRm9ybWF0c3EAfgALyp698HQAC2FycmF5Rm9ybWF0c3EAfgALe8tX13QAEWltbUl0ZXJhYmxlRm9ybWF0c3EAfgAL1pDzfXQADkJ5dGVKc29uRm9ybWF0c3EAfgALcfuPHXQADHR1cGxlMkZvcm1hdHNxAH4AC39h3Ix0ABNpbW1JbmRleGVkU2VxRm9ybWF0c3EAfgALbvnda3QADGltbVNlcUZvcm1hdHNxAH4AC5PXZF50AAx0dXBsZTRGb3JtYXRzcQB+AAu+DFnpdAAPRmxvYXRKc29uRm9ybWF0c3EAfgAL8NtdXXQADml0ZXJhYmxlRm9ybWF0c3EAfgALr5kCNXQADUludEpzb25Gb3JtYXRzcQB+AAsJkP1PdAAQRG91YmxlSnNvbkZvcm1hdHNxAH4ACzBQdmB0AAltYXBGb3JtYXRzcQB+AAsR/3NFdAAJc2VxRm9ybWF0c3EAfgALTMy0XnQAEEJpZ0ludEpzb25Gb3JtYXR1cQB+AAkAAABIc3EAfgALRXCnxHQABm5vdGlmeXNxAH4AC1gsZe50AARyZWFkc3EAfgALke0p2nQACWZyb21GaWVsZHNxAH4ACxoPY4J0AAtqc29uRm9ybWF0OXNxAH4AC48wmPN0AAZhdXRob3JzcQB+AAsMxHNmdAAManNvbkZvcm1hdDE2c3EAfgALNH4jk3QABGJvZHlzcQB+AAvbyKHzdAAManNvbkZvcm1hdDIwc3EAfgALD9OtbXQABHdhaXRzcQB+AAuLjM9NdAAGdmlhU2Vxc3EAfgALXxIeTXQACmxhenlGb3JtYXRzcQB+AAs2QGWidAAOY29weSRkZWZhdWx0JDJzcQB+AAsXrzQmdAANJGFzSW5zdGFuY2VPZnNxAH4AC1j3jC90AAxqc29uRm9ybWF0MTJzcQB+AAsf29VAdAAManNvbkZvcm1hdDEzc3EAfgALkaXKBHQAC2pzb25Gb3JtYXQyc3EAfgALHHFlKHQADHByb2R1Y3RBcml0eXNxAH4AC0ZzuEh0AAZlcXVhbHNzcQB+AAuK1I2mdAALanNvbkZvcm1hdDZzcQB+AAtYyL0jdAAMYXNJbnN0YW5jZU9mc3EAfgALlDGHnHQADGpzb25Gb3JtYXQxNXNxAH4AC+2F3nt0AAJKRnNxAH4AC7c2Xx90AAxzeW5jaHJvbml6ZWRzcQB+AAtSNW2GdAAManNvbkZvcm1hdDExc3EAfgAL1IEy+XQADSRpc0luc3RhbmNlT2ZzcQB+AAvWCedXdAALanNvbkZvcm1hdDVzcQB+AAuXGTMZdAAManNvbkZvcm1hdDIxc3EAfgALxp6N83QAFHByb2R1Y3RFbGVtZW50MkZpZWxkc3EAfgALrcH1GXQACnJvb3RGb3JtYXRzcQB+AAugeruWdAAecHJvZHVjdEVsZW1lbnQyRmllbGQkZGVmYXVsdCQ0c3EAfgALpoueuHQADGpzb25Gb3JtYXQxNHNxAH4AC7RFV5l0AAhjYW5FcXVhbHNxAH4AC269uV90AAtqc29uRm9ybWF0MXNxAH4AC96rzSR0AA5yb290SnNvbkZvcm1hdHNxAH4AC7Gr8th0AA1wcm9kdWN0UHJlZml4c3EAfgALOfMZd3QADGpzb25Gb3JtYXQxOXNxAH4AC9ogfsl0AAlub3RpZnlBbGxzcQB+AAvbhjmrdAAIZGVsZWdhdGVzcQB+AAv1as3hdAAMaXNJbnN0YW5jZU9mc3EAfgALsMXyTHQADVR3ZWV0UHJvdG9jb2xzcQB+AAusifgQdAAGPGluaXQ+c3EAfgALHeUhpnQAC2pzb25Gb3JtYXQ0c3EAfgALn85VM3QAAj09c3EAfgALbFKpmHQABWNsb25lc3EAfgALVkHOqXQADGpzb25Gb3JtYXQxMHNxAH4AC+iueLp0AAtqc29uRm9ybWF0MHNxAH4AC19J1nB0AAxqc29uRm9ybWF0MjJzcQB+AAtamBvUdAAFVHdlZXRzcQB+AAtnJClKdAAMT3B0aW9uRm9ybWF0c3EAfgALbaS123QADGpzb25Gb3JtYXQxOHNxAH4ACyI1O8Z0AAYkaW5pdCRzcQB+AAtGmjgRdAAEY29weXNxAH4AC26+jDd0AAh0b1N0cmluZ3NxAH4ACxRFPO90AApqc29uRm9ybWF0c3EAfgALa20BinQAAiE9c3EAfgALqdUdH3QAC2pzb25Gb3JtYXQ4c3EAfgAL9GvZMXQACGdldENsYXNzc3EAfgALG9+3BHQADmNvcHkkZGVmYXVsdCQxc3EAfgALOMMLbnQAAm5lc3EAfgALpgQdnHQABGxpZnRzcQB+AAsZ9qq1dAALanNvbkZvcm1hdDNzcQB+AAsdh7IBdAACZXFzcQB+AAtvKXQXdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAL7Tu+hHQABXdyaXRlc3EAfgAL9T37l3QACnNhZmVSZWFkZXJzcQB+AAt/toHTdAACIyNzcQB+AAtni8GfdAAIZmluYWxpemVzcQB+AAsMDTpkdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAv4wwBydAAIaGFzaENvZGVzcQB+AAuCAn18dAARZXh0cmFjdEZpZWxkTmFtZXNzcQB+AAtt+nnFdAAManNvbkZvcm1hdDE3c3EAfgAL6E/h0nQAC2pzb25Gb3JtYXQ3c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4A93hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAG2NvbS5wYWNrdC5ha2thLm1vZGVscy5Ud2VldHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgEPc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+APdMAAlpbmhlcml0ZWRxAH4A90wAB3BhcmVudHNxAH4A93hxAH4BFHNxAH4BD3VxAH4A8gAAAABzcQB+AQ91cQB+APIAAAAAc3EAfgEPdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgETdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgETc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgEtc3EAfgEgcQB+ASNzcQB+ASRzcQB+ASd1cQB+ASoAAAADc3EAfgEsdAAEamF2YXNxAH4BLHQAAmlvcQB+ATFzcQB+ASB0AAdQcm9kdWN0cQB+ASZzcQB+ASB0AAZFcXVhbHNxAH4BJnNxAH4BIHQABk9iamVjdHNxAH4BJHNxAH4BJ3VxAH4BKgAAAANzcQB+ASxxAH4BN3NxAH4BLHQABGxhbmdxAH4BMXNxAH4BIHQAA0FueXEAfgEmc3EAfgD0cQB+AQF1cQB+AQIAAAAAc3EAfgEEAHQAI2NvbS5wYWNrdC5ha2thLm1vZGVscy5Ud2VldFByb3RvY29sdXEAfgEHAAAAAH5xAH4BCXQABk1vZHVsZXVxAH4BDQAAAABzcQB+AQ9xAH4BFXNxAH4BD3NxAH4BF3NxAH4BD3VxAH4A8gAAAABzcQB+AQ91cQB+APIAAAAAc3EAfgEPdXEAfgEeAAAACXNxAH4BIHQAE0RlZmF1bHRKc29uUHJvdG9jb2xzcQB+ASRzcQB+ASd1cQB+ASoAAAADc3EAfgEsdAAFc3ByYXlzcQB+ASx0AARqc29ucQB+ATFzcQB+ASB0ABFBZGRpdGlvbmFsRm9ybWF0c3EAfgFbc3EAfgEgdAAOUHJvZHVjdEZvcm1hdHNxAH4BW3NxAH4BIHQAF1Byb2R1Y3RGb3JtYXRzSW5zdGFuY2VzcQB+AVtzcQB+ASB0ABFDb2xsZWN0aW9uRm9ybWF0c3EAfgFbc3EAfgEgdAAPU3RhbmRhcmRGb3JtYXRzcQB+AVtzcQB+ASB0AAxCYXNpY0Zvcm1hdHNxAH4BW3NxAH4BIHEAfgE/c3EAfgEkc3EAfgEndXEAfgEqAAAAA3NxAH4BLHEAfgE3c3EAfgEscQB+AUVxAH4BMXNxAH4BIHEAfgFHc3EAfgEkc3EAfgEndXEAfgEqAAAAAnNxAH4BLHEAfgEvcQB+ATF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABHNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAljb20ucGFja3RzcQB+AXt0ABVjb20ucGFja3QuYWtrYS5tb2RlbHNzcQB+AXt0AA5jb20ucGFja3QuYWtrYXNxAH4Be3QAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU7kDySB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABOL21lZGlhL2FiYW5vdWIvRTQzQzY5MDkzQzY4RDdENi9JVEkgT1MvQWtrYS9yZXN0LWFwaS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUGyuHI8COpL0PslqRFYqNV6QNl7A=
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAeqBT3AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAsc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hweNdl/XQADlVuaXRKc29uRm9ybWF0c3EAfgALzjA72XQACmxpc3RGb3JtYXRzcQB+AAuHrVx8dAAMdmVjdG9yRm9ybWF0c3EAfgAL6q9hb3QAElJvb3RKc09iamVjdEZvcm1hdHNxAH4AC/rTGAd0ABFCb29sZWFuSnNvbkZvcm1hdHNxAH4AC6yDJZN0ABVUd2VldEVudGl0eUJTT05Xcml0ZXJzcQB+AAtDXQ1bdAAJc2V0Rm9ybWF0c3EAfgALpRS1LXQAEVJvb3RKc0FycmF5Rm9ybWF0c3EAfgALJx8KKHQADUpzVmFsdWVGb3JtYXRzcQB+AAv2cG1vdAAOTG9uZ0pzb25Gb3JtYXRzcQB+AAtjcIdpdAAMdHVwbGUxRm9ybWF0c3EAfgALV6/JGnQAFEJTT05PYmplY3RJZFByb3RvY29sc3EAfgALogpMe3QAEGluZGV4ZWRTZXFGb3JtYXRzcQB+AAvvVShVdAAMb3B0aW9uRm9ybWF0c3EAfgALuUji/nQAD2xpbmVhclNlcUZvcm1hdHNxAH4AC8xaiVJ0ABBTeW1ib2xKc29uRm9ybWF0c3EAfgALLFgMFHQADHR1cGxlNUZvcm1hdHNxAH4ACyjiOsZ0AAx0dXBsZTNGb3JtYXRzcQB+AAvkLP8fdAASaW1tTGluZWFyU2VxRm9ybWF0c3EAfgALkRe0GXQADHR1cGxlN0Zvcm1hdHNxAH4AC/9jnmB0AAxpbW1TZXRGb3JtYXRzcQB+AAu8bBgBdAAMZWl0aGVyRm9ybWF0c3EAfgAL5TpMZ3QADkNoYXJKc29uRm9ybWF0c3EAfgALVxt1LnQAFEJpZ0RlY2ltYWxKc29uRm9ybWF0c3EAfgALic3+dnQAD1Nob3J0SnNvbkZvcm1hdHNxAH4ACxYn6Oh0AAx0dXBsZTZGb3JtYXRzcQB+AAuHeSCbdAAVVHdlZXRFbnRpdHlCU09OUmVhZGVyc3EAfgALnNX6vnQAEFN0cmluZ0pzb25Gb3JtYXRzcQB+AAv8m9aXdAALYXJyYXlGb3JtYXRzcQB+AAu7txB9dAARaW1tSXRlcmFibGVGb3JtYXRzcQB+AAujOtmhdAAOQnl0ZUpzb25Gb3JtYXRzcQB+AAvRNk2DdAAMdHVwbGUyRm9ybWF0c3EAfgALYTTVcXQAE2ltbUluZGV4ZWRTZXFGb3JtYXRzcQB+AAvX4+fkdAANRW50aXR5Rm9ybWF0M3NxAH4AC2uy2xJ0AAxpbW1TZXFGb3JtYXRzcQB+AAsjtD6OdAAMdHVwbGU0Rm9ybWF0c3EAfgALT+RgT3QAD0Zsb2F0SnNvbkZvcm1hdHNxAH4AC1snJ+50AA5pdGVyYWJsZUZvcm1hdHNxAH4ACwcVYol0AA1JbnRKc29uRm9ybWF0c3EAfgAL2WlgzXQAEERvdWJsZUpzb25Gb3JtYXRzcQB+AAstCRSjdAAJbWFwRm9ybWF0c3EAfgALdYCe1nQADXRvVHdlZXRFbnRpdHlzcQB+AAsC33cldAAJc2VxRm9ybWF0c3EAfgALHMsklHQAEEJpZ0ludEpzb25Gb3JtYXR1cQB+AAkAAABSc3EAfgALYmeZ+HQABm5vdGlmeXNxAH4AC+gNHaB0AARyZWFkc3EAfgALnKJt0XQACWZyb21GaWVsZHNxAH4AC22SrWl0AAtqc29uRm9ybWF0OXNxAH4AC5jj2fJ0AAd1bmFwcGx5c3EAfgALZHQ9dXQABmF1dGhvcnNxAH4ACwX645d0AAxqc29uRm9ybWF0MTZzcQB+AAuta8qVdAAEYm9keXNxAH4AC2K2UCV0AAxqc29uRm9ybWF0MjBzcQB+AAtC9zS5dAAEd2FpdHNxAH4ACyByFWV0AAZ2aWFTZXFzcQB+AAtR8pSsdAAKbGF6eUZvcm1hdHNxAH4AC/MfXwB0AA5jb3B5JGRlZmF1bHQkMnNxAH4AC5eE3sJ0AA0kYXNJbnN0YW5jZU9mc3EAfgALTMxrI3QADGpzb25Gb3JtYXQxMnNxAH4ACxTvJ6h0AAxqc29uRm9ybWF0MTNzcQB+AAtHvvwldAALVHdlZXRFbnRpdHlzcQB+AAuoTKaNdAALanNvbkZvcm1hdDJzcQB+AAuMojjudAAId3JpdGVPcHRzcQB+AAtVTC9UdAAQPGluaXQ+JGRlZmF1bHQkMXNxAH4AC/RQI3d0AAxwcm9kdWN0QXJpdHlzcQB+AAu1BjjldAAGZXF1YWxzc3EAfgALU20IQ3QAC2pzb25Gb3JtYXQ2c3EAfgALQwOSP3QADGFzSW5zdGFuY2VPZnNxAH4AC0/+J1F0AAxqc29uRm9ybWF0MTVzcQB+AAsjTCbfdAACSkZzcQB+AAt06ymfdAAMc3luY2hyb25pemVkc3EAfgALIG1tUnQADGpzb25Gb3JtYXQxMXNxAH4AC3+q8dB0AA0kaXNJbnN0YW5jZU9mc3EAfgALgroySXQAC2pzb25Gb3JtYXQ1c3EAfgALkBpjHnQADGpzb25Gb3JtYXQyMXNxAH4AC6p/c510ABRwcm9kdWN0RWxlbWVudDJGaWVsZHNxAH4ACzBqY6V0AApyb290Rm9ybWF0c3EAfgALbDqG/3QAHnByb2R1Y3RFbGVtZW50MkZpZWxkJGRlZmF1bHQkNHNxAH4AC6joER10AAxqc29uRm9ybWF0MTRzcQB+AAtqrTQhdAAIY2FuRXF1YWxzcQB+AAvO5aiYdAALanNvbkZvcm1hdDFzcQB+AAt6l7iOdAAOcm9vdEpzb25Gb3JtYXRzcQB+AAtJcZZMdAANcHJvZHVjdFByZWZpeHNxAH4AC9Wn0xB0AAxqc29uRm9ybWF0MTlzcQB+AAvS7i2ldAAJbm90aWZ5QWxsc3EAfgALsO+akXQACGRlbGVnYXRlc3EAfgALcuvod3QADGlzSW5zdGFuY2VPZnNxAH4ACye/f0F0AAh3cml0ZVRyeXNxAH4AC5xJMDd0AAY8aW5pdD5zcQB+AAv2KmfIdAACaWRzcQB+AAtYoNuydAAFYXBwbHlzcQB+AAtQu9eNdAALanNvbkZvcm1hdDRzcQB+AAsWjFq+dAACPT1zcQB+AAuld66fdAAFY2xvbmVzcQB+AAuZbZvxdAAManNvbkZvcm1hdDEwc3EAfgALJd6/R3QAC2pzb25Gb3JtYXQwc3EAfgALRIKE9HQADGpzb25Gb3JtYXQyMnNxAH4AC7XLqq90AAxPcHRpb25Gb3JtYXRzcQB+AAsg32WYdAAManNvbkZvcm1hdDE4c3EAfgAL34hYvXQABiRpbml0JHNxAH4ACyFRKXd0ABNUd2VldEVudGl0eVByb3RvY29sc3EAfgALHu6SSHQADmNvcHkkZGVmYXVsdCQzc3EAfgALPlLt+3QABGNvcHlzcQB+AAuzmd7BdAAPYXBwbHkkZGVmYXVsdCQxc3EAfgALQlTWpHQACHRvU3RyaW5nc3EAfgALrBoU7HQACmpzb25Gb3JtYXRzcQB+AAtb1wYfdAACIT1zcQB+AAt2wYkxdAALanNvbkZvcm1hdDhzcQB+AAstLDBFdAAIZ2V0Q2xhc3NzcQB+AAvW8XLUdAAOY29weSRkZWZhdWx0JDFzcQB+AAu4LWfmdAAHcmVhZE9wdHNxAH4ACybzY9d0AAJuZXNxAH4AC7qRXUh0AARsaWZ0c3EAfgAL5a0J5HQAC2pzb25Gb3JtYXQzc3EAfgALjIeL2HQAAmVxc3EAfgALrRVqoXQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ACxINzpt0AAV3cml0ZXNxAH4AC93fk6p0AApzYWZlUmVhZGVyc3EAfgALnraw7nQAAiMjc3EAfgALkRfiFHQACGZpbmFsaXplc3EAfgAL4paydnQAB3JlYWRUcnlzcQB+AAtdS7ZmdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAsWjlvndAAIaGFzaENvZGVzcQB+AAsUG/K1dAARZXh0cmFjdEZpZWxkTmFtZXNzcQB+AAunH2v7dAAManNvbkZvcm1hdDE3c3EAfgALPOlBG3QAC2pzb25Gb3JtYXQ3c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAA3NyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4BE3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAIWNvbS5wYWNrdC5ha2thLm1vZGVscy5Ud2VldEVudGl0eXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgErc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ARNMAAlpbmhlcml0ZWRxAH4BE0wAB3BhcmVudHNxAH4BE3hxAH4BMHNxAH4BK3VxAH4BDgAAAABzcQB+ASt1cQB+AQ4AAAAAc3EAfgErdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgEvdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgEvc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgFJc3EAfgE8cQB+AT9zcQB+AUBzcQB+AUN1cQB+AUYAAAADc3EAfgFIdAAEamF2YXNxAH4BSHQAAmlvcQB+AU1zcQB+ATx0AAdQcm9kdWN0cQB+AUJzcQB+ATx0AAZFcXVhbHNxAH4BQnNxAH4BPHQABk9iamVjdHNxAH4BQHNxAH4BQ3VxAH4BRgAAAANzcQB+AUhxAH4BU3NxAH4BSHQABGxhbmdxAH4BTXNxAH4BPHQAA0FueXEAfgFCc3EAfgEQcQB+AR11cQB+AR4AAAAAc3EAfgEgAHQAIWNvbS5wYWNrdC5ha2thLm1vZGVscy5Ud2VldEVudGl0eXVxAH4BIwAAAAB+cQB+ASV0AAZNb2R1bGV1cQB+ASkAAAAAc3EAfgErcQB+ATFzcQB+AStzcQB+ATNzcQB+ASt1cQB+AQ4AAAAAc3EAfgErdXEAfgEOAAAAAHNxAH4BK3VxAH4BOgAAAARzcQB+ATxxAH4BP3NxAH4BQHNxAH4BQ3VxAH4BRgAAAAJzcQB+AUhxAH4BS3EAfgFNc3EAfgE8cQB+AT9zcQB+AUBzcQB+AUN1cQB+AUYAAAADc3EAfgFIcQB+AVNzcQB+AUh0AAJpb3EAfgFNc3EAfgE8cQB+AVtzcQB+AUBzcQB+AUN1cQB+AUYAAAADc3EAfgFIcQB+AVNzcQB+AUhxAH4BYXEAfgFNc3EAfgE8cQB+AWNxAH4BdnNxAH4BEHEAfgEddXEAfgEeAAAAAHNxAH4BIAB0ACljb20ucGFja3QuYWtrYS5tb2RlbHMuVHdlZXRFbnRpdHlQcm90b2NvbHVxAH4BIwAAAABxAH4BaXVxAH4BKQAAAABzcQB+AStxAH4BMXNxAH4BK3NxAH4BM3NxAH4BK3VxAH4BDgAAAABzcQB+ASt1cQB+AQ4AAAAAc3EAfgErdXEAfgE6AAAACXNxAH4BPHQAE0RlZmF1bHRKc29uUHJvdG9jb2xzcQB+AUBzcQB+AUN1cQB+AUYAAAADc3EAfgFIdAAFc3ByYXlzcQB+AUh0AARqc29ucQB+AU1zcQB+ATx0ABFBZGRpdGlvbmFsRm9ybWF0c3EAfgGZc3EAfgE8dAAOUHJvZHVjdEZvcm1hdHNxAH4BmXNxAH4BPHQAF1Byb2R1Y3RGb3JtYXRzSW5zdGFuY2VzcQB+AZlzcQB+ATx0ABFDb2xsZWN0aW9uRm9ybWF0c3EAfgGZc3EAfgE8dAAPU3RhbmRhcmRGb3JtYXRzcQB+AZlzcQB+ATx0AAxCYXNpY0Zvcm1hdHNxAH4BmXNxAH4BPHEAfgFbc3EAfgFAc3EAfgFDdXEAfgFGAAAAA3NxAH4BSHEAfgFTc3EAfgFIcQB+AWFxAH4BTXNxAH4BPHEAfgFjc3EAfgFAc3EAfgFDdXEAfgFGAAAAAnNxAH4BSHEAfgFLcQB+AU11cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABHNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAljb20ucGFja3RzcQB+Abl0ABVjb20ucGFja3QuYWtrYS5tb2RlbHNzcQB+Abl0AA5jb20ucGFja3QuYWtrYXNxAH4BuXQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU7kDySB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABOL21lZGlhL2FiYW5vdWIvRTQzQzY5MDkzQzY4RDdENi9JVEkgT1MvQWtrYS9yZXN0LWFwaS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUiAffcRG95ajrNm/I72UM82E+cdU=
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCj2X/rAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAoc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwpSlNYXQAClVzZXJGb3JtYXRzcQB+AAs+GrkqdAAOVW5pdEpzb25Gb3JtYXRzcQB+AAvjc6fXdAAKbGlzdEZvcm1hdHNxAH4AC/9LAxZ0AAx2ZWN0b3JGb3JtYXRzcQB+AAt0SSMTdAASUm9vdEpzT2JqZWN0Rm9ybWF0c3EAfgALI2CuNXQAEUJvb2xlYW5Kc29uRm9ybWF0c3EAfgALVhkDjnQACXNldEZvcm1hdHNxAH4AC567FHp0ABFSb290SnNBcnJheUZvcm1hdHNxAH4AC6Ph7yd0AA1Kc1ZhbHVlRm9ybWF0c3EAfgALnhCB73QADkxvbmdKc29uRm9ybWF0c3EAfgAL9MnvznQADHR1cGxlMUZvcm1hdHNxAH4AC8c3VN10ABBpbmRleGVkU2VxRm9ybWF0c3EAfgALHkcQZHQADG9wdGlvbkZvcm1hdHNxAH4AC8v7WqN0AA9saW5lYXJTZXFGb3JtYXRzcQB+AAtKibMDdAAQU3ltYm9sSnNvbkZvcm1hdHNxAH4AC+q3e750AAx0dXBsZTVGb3JtYXRzcQB+AAulx1mWdAAMdHVwbGUzRm9ybWF0c3EAfgALCTxzAXQAEmltbUxpbmVhclNlcUZvcm1hdHNxAH4AC+J12Qp0AAx0dXBsZTdGb3JtYXRzcQB+AAsbntlEdAAMaW1tU2V0Rm9ybWF0c3EAfgALZmVy+nQADGVpdGhlckZvcm1hdHNxAH4ACw0P9i10AA5DaGFySnNvbkZvcm1hdHNxAH4ACyNvAN50ABRCaWdEZWNpbWFsSnNvbkZvcm1hdHNxAH4ACweGj/F0AA9TaG9ydEpzb25Gb3JtYXRzcQB+AAtVK+KPdAAMdHVwbGU2Rm9ybWF0c3EAfgALTD1BNnQAEFN0cmluZ0pzb25Gb3JtYXRzcQB+AAvuDZWTdAALYXJyYXlGb3JtYXRzcQB+AAsIa/8MdAARaW1tSXRlcmFibGVGb3JtYXRzcQB+AAvpLcWjdAAOQnl0ZUpzb25Gb3JtYXRzcQB+AAsKvbOLdAAMdHVwbGUyRm9ybWF0c3EAfgALZ0t76XQAE2ltbUluZGV4ZWRTZXFGb3JtYXRzcQB+AAufPAVJdAAMaW1tU2VxRm9ybWF0c3EAfgALvWHfjXQADHR1cGxlNEZvcm1hdHNxAH4AC2uQE4F0AA9GbG9hdEpzb25Gb3JtYXRzcQB+AAtWWnDJdAAOaXRlcmFibGVGb3JtYXRzcQB+AAtCzBIPdAANSW50SnNvbkZvcm1hdHNxAH4AC5i0HjJ0ABBEb3VibGVKc29uRm9ybWF0c3EAfgALPuh3z3QACW1hcEZvcm1hdHNxAH4AC8Zi7BB0AAlzZXFGb3JtYXRzcQB+AAsBuIyCdAAQQmlnSW50SnNvbkZvcm1hdHVxAH4ACQAAAEhzcQB+AAufyxEZdAAGbm90aWZ5c3EAfgALq48JnHQABHJlYWRzcQB+AAvE85OqdAAJZnJvbUZpZWxkc3EAfgALQB5nFnQAC2pzb25Gb3JtYXQ5c3EAfgALPNIXIHQADGpzb25Gb3JtYXQxNnNxAH4AC+vCK2R0AARuYW1lc3EAfgALdmxRB3QADGpzb25Gb3JtYXQyMHNxAH4AC8Trp2J0AAR3YWl0c3EAfgALxP8n2XQABnZpYVNlcXNxAH4AC/Srt2Z0AApsYXp5Rm9ybWF0c3EAfgAL0kXVy3QADmNvcHkkZGVmYXVsdCQyc3EAfgALLn9QMXQADSRhc0luc3RhbmNlT2ZzcQB+AAtdN8n/dAAManNvbkZvcm1hdDEyc3EAfgALUUO3YHQADGpzb25Gb3JtYXQxM3NxAH4AC6vDu490AAtqc29uRm9ybWF0MnNxAH4AC6MAtp90AAxwcm9kdWN0QXJpdHlzcQB+AAu1enLedAAGZXF1YWxzc3EAfgALm7tUNXQAC2pzb25Gb3JtYXQ2c3EAfgALW/125HQADGFzSW5zdGFuY2VPZnNxAH4ACzvqIWh0AAxqc29uRm9ybWF0MTVzcQB+AAu3udKJdAACSkZzcQB+AAsj30ZbdAAMc3luY2hyb25pemVkc3EAfgALimcH6HQADGpzb25Gb3JtYXQxMXNxAH4ACy5xAS90AA0kaXNJbnN0YW5jZU9mc3EAfgALTMShHXQAC2pzb25Gb3JtYXQ1c3EAfgALsXrIdnQADGpzb25Gb3JtYXQyMXNxAH4AC5S2MPt0ABRwcm9kdWN0RWxlbWVudDJGaWVsZHNxAH4AC0PjiYp0AApyb290Rm9ybWF0c3EAfgALgOfN2HQAHnByb2R1Y3RFbGVtZW50MkZpZWxkJGRlZmF1bHQkNHNxAH4AC88TJnV0AAxqc29uRm9ybWF0MTRzcQB+AAsO7fFFdAAIY2FuRXF1YWxzcQB+AAtAb+BfdAALanNvbkZvcm1hdDFzcQB+AAsaaIZidAAOcm9vdEpzb25Gb3JtYXRzcQB+AAu2dytidAANcHJvZHVjdFByZWZpeHNxAH4AC1XGuPZ0AAxqc29uRm9ybWF0MTlzcQB+AAuTfnbidAAJbm90aWZ5QWxsc3EAfgALoGs1ZnQACGRlbGVnYXRlc3EAfgALT8GjnHQADGlzSW5zdGFuY2VPZnNxAH4AC0/nULp0AAY8aW5pdD5zcQB+AAtsHe+VdAALanNvbkZvcm1hdDRzcQB+AAvZ/IVFdAACPT1zcQB+AAvUraNxdAAFY2xvbmVzcQB+AAs7/uqfdAAManNvbkZvcm1hdDEwc3EAfgALH/QqlXQAC2pzb25Gb3JtYXQwc3EAfgAL0RZh6HQADGpzb25Gb3JtYXQyMnNxAH4AC4W0rjx0AAxPcHRpb25Gb3JtYXRzcQB+AAvociOKdAAManNvbkZvcm1hdDE4c3EAfgAL8+lLRHQABiRpbml0JHNxAH4AC0IqsLx0AARVc2Vyc3EAfgALM+OutHQABGNvcHlzcQB+AAsUbK5NdAAIdG9TdHJpbmdzcQB+AAsELmP5dAAMVXNlclByb3RvY29sc3EAfgAL3G4FA3QACmpzb25Gb3JtYXRzcQB+AAsh8xWcdAACIT1zcQB+AAtgke3ydAALanNvbkZvcm1hdDhzcQB+AAta+YVddAAIZ2V0Q2xhc3NzcQB+AAtxp2sGdAAOY29weSRkZWZhdWx0JDFzcQB+AAukNPYQdAACbmVzcQB+AAt6+19ndAAEbGlmdHNxAH4AC8LtAQJ0AAtqc29uRm9ybWF0M3NxAH4AC/2EK1Z0AAJlcXNxAH4AC/ivkCh0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAv0XDvFdAAFd3JpdGVzcQB+AAuA0z/fdAAKc2FmZVJlYWRlcnNxAH4ACxWQmeJ0AAIjI3NxAH4AC5jGdrx0AAhmaW5hbGl6ZXNxAH4AC9ZEmFJ0AA5wcm9kdWN0RWxlbWVudHNxAH4ACzmS8hJ0AAhoYXNoQ29kZXNxAH4ACwGoX2t0ABFleHRyYWN0RmllbGROYW1lc3NxAH4ACxhJ0hV0AAxqc29uRm9ybWF0MTdzcQB+AAtam7ecdAAIcGFzc3dvcmRzcQB+AAu8qCcIdAALanNvbkZvcm1hdDdzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgD3eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAaY29tLnBhY2t0LmFra2EubW9kZWxzLlVzZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4BD3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgD3TAAJaW5oZXJpdGVkcQB+APdMAAdwYXJlbnRzcQB+APd4cQB+ARRzcQB+AQ91cQB+APIAAAAAc3EAfgEPdXEAfgDyAAAAAHNxAH4BD3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4BE3QADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4BE3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4BLXNxAH4BIHEAfgEjc3EAfgEkc3EAfgEndXEAfgEqAAAAA3NxAH4BLHQABGphdmFzcQB+ASx0AAJpb3EAfgExc3EAfgEgdAAHUHJvZHVjdHEAfgEmc3EAfgEgdAAGRXF1YWxzcQB+ASZzcQB+ASB0AAZPYmplY3RzcQB+ASRzcQB+ASd1cQB+ASoAAAADc3EAfgEscQB+ATdzcQB+ASx0AARsYW5ncQB+ATFzcQB+ASB0AANBbnlxAH4BJnNxAH4A9HEAfgEBdXEAfgECAAAAAHNxAH4BBAB0ACJjb20ucGFja3QuYWtrYS5tb2RlbHMuVXNlclByb3RvY29sdXEAfgEHAAAAAH5xAH4BCXQABk1vZHVsZXVxAH4BDQAAAABzcQB+AQ9xAH4BFXNxAH4BD3NxAH4BF3NxAH4BD3VxAH4A8gAAAABzcQB+AQ91cQB+APIAAAAAc3EAfgEPdXEAfgEeAAAACXNxAH4BIHQAE0RlZmF1bHRKc29uUHJvdG9jb2xzcQB+ASRzcQB+ASd1cQB+ASoAAAADc3EAfgEsdAAFc3ByYXlzcQB+ASx0AARqc29ucQB+ATFzcQB+ASB0ABFBZGRpdGlvbmFsRm9ybWF0c3EAfgFbc3EAfgEgdAAOUHJvZHVjdEZvcm1hdHNxAH4BW3NxAH4BIHQAF1Byb2R1Y3RGb3JtYXRzSW5zdGFuY2VzcQB+AVtzcQB+ASB0ABFDb2xsZWN0aW9uRm9ybWF0c3EAfgFbc3EAfgEgdAAPU3RhbmRhcmRGb3JtYXRzcQB+AVtzcQB+ASB0AAxCYXNpY0Zvcm1hdHNxAH4BW3NxAH4BIHEAfgE/c3EAfgEkc3EAfgEndXEAfgEqAAAAA3NxAH4BLHEAfgE3c3EAfgEscQB+AUVxAH4BMXNxAH4BIHEAfgFHc3EAfgEkc3EAfgEndXEAfgEqAAAAAnNxAH4BLHEAfgEvcQB+ATF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABHNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAljb20ucGFja3RzcQB+AXt0ABVjb20ucGFja3QuYWtrYS5tb2RlbHNzcQB+AXt0AA5jb20ucGFja3QuYWtrYXNxAH4Be3QAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU7kDySB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABOL21lZGlhL2FiYW5vdWIvRTQzQzY5MDkzQzY4RDdENi9JVEkgT1MvQWtrYS9yZXN0LWFwaS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUWFZHjhAATx0VPd9Rb0B/o4lbit4=
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAiINw9AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAsc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw67zSjHQADlVuaXRKc29uRm9ybWF0c3EAfgALLYN7fnQACmxpc3RGb3JtYXRzcQB+AAuFJMWjdAAMdmVjdG9yRm9ybWF0c3EAfgALPUyj1XQAElJvb3RKc09iamVjdEZvcm1hdHNxAH4AC7ApSod0ABFCb29sZWFuSnNvbkZvcm1hdHNxAH4AC0w0G7l0AAlzZXRGb3JtYXRzcQB+AAv4yRJLdAARUm9vdEpzQXJyYXlGb3JtYXRzcQB+AAvlfC3OdAAUVXNlckVudGl0eUJTT05SZWFkZXJzcQB+AAsLUuAndAANSnNWYWx1ZUZvcm1hdHNxAH4AC+909Xh0AA5Mb25nSnNvbkZvcm1hdHNxAH4AC7XJChN0AAx0dXBsZTFGb3JtYXRzcQB+AAutHxeUdAAUQlNPTk9iamVjdElkUHJvdG9jb2xzcQB+AAtY+aEddAAQaW5kZXhlZFNlcUZvcm1hdHNxAH4AC1uCV7d0AAxvcHRpb25Gb3JtYXRzcQB+AAuPDccpdAAPbGluZWFyU2VxRm9ybWF0c3EAfgALMyaJqHQAEFN5bWJvbEpzb25Gb3JtYXRzcQB+AAs3yNU8dAAMdHVwbGU1Rm9ybWF0c3EAfgALh51yOHQADHR1cGxlM0Zvcm1hdHNxAH4AC8fI1+V0ABJpbW1MaW5lYXJTZXFGb3JtYXRzcQB+AAtuVnCidAAMdHVwbGU3Rm9ybWF0c3EAfgALK1O3B3QADGltbVNldEZvcm1hdHNxAH4AC5SnDZ50AAxlaXRoZXJGb3JtYXRzcQB+AAvU/+uddAAOQ2hhckpzb25Gb3JtYXRzcQB+AAsg8F9GdAAUQmlnRGVjaW1hbEpzb25Gb3JtYXRzcQB+AAuD46fHdAAPU2hvcnRKc29uRm9ybWF0c3EAfgALp+DdfnQADEVudGl0eUZvcm1hdHNxAH4ACwgJOO10AAx0dXBsZTZGb3JtYXRzcQB+AAt0MIAldAAQU3RyaW5nSnNvbkZvcm1hdHNxAH4AC/k1h/V0AAthcnJheUZvcm1hdHNxAH4AC8OdThh0ABFpbW1JdGVyYWJsZUZvcm1hdHNxAH4ACw70sbx0AA5CeXRlSnNvbkZvcm1hdHNxAH4AC2Vez+R0AAx0dXBsZTJGb3JtYXRzcQB+AAv6iqsydAATaW1tSW5kZXhlZFNlcUZvcm1hdHNxAH4AC9Lht8d0ABRVc2VyRW50aXR5QlNPTldyaXRlcnNxAH4ACz6BjEJ0AAx0b1VzZXJFbnRpdHlzcQB+AAu8QWFZdAAMaW1tU2VxRm9ybWF0c3EAfgALR75CunQADHR1cGxlNEZvcm1hdHNxAH4AC899h/N0AA9GbG9hdEpzb25Gb3JtYXRzcQB+AAs+iOZSdAAOaXRlcmFibGVGb3JtYXRzcQB+AAvbYPQrdAANSW50SnNvbkZvcm1hdHNxAH4AC5DRiLd0ABBEb3VibGVKc29uRm9ybWF0c3EAfgALyADOQnQACW1hcEZvcm1hdHNxAH4ACwQ8tFJ0AAlzZXFGb3JtYXRzcQB+AAsooRh1dAAQQmlnSW50SnNvbkZvcm1hdHVxAH4ACQAAAFJzcQB+AAtAQANrdAAGbm90aWZ5c3EAfgALesirk3QABHJlYWRzcQB+AAvymxhsdAAJZnJvbUZpZWxkc3EAfgALxiN9fXQAC2pzb25Gb3JtYXQ5c3EAfgALSFUz0nQAB3VuYXBwbHlzcQB+AAt99jRldAAManNvbkZvcm1hdDE2c3EAfgALchFtE3QABG5hbWVzcQB+AAvlHhw+dAAManNvbkZvcm1hdDIwc3EAfgAL8CgW6XQABHdhaXRzcQB+AAueqDT7dAAGdmlhU2Vxc3EAfgALXyrHfnQACmxhenlGb3JtYXRzcQB+AAs63obwdAAOY29weSRkZWZhdWx0JDJzcQB+AAvGrJiidAANJGFzSW5zdGFuY2VPZnNxAH4AC0up0pV0AAxqc29uRm9ybWF0MTJzcQB+AAv9EC3xdAAManNvbkZvcm1hdDEzc3EAfgALJAoQ4HQAC2pzb25Gb3JtYXQyc3EAfgALLDfjwnQACHdyaXRlT3B0c3EAfgAL6CCPqnQAEDxpbml0PiRkZWZhdWx0JDFzcQB+AAsdIP28dAAMcHJvZHVjdEFyaXR5c3EAfgALFTLY5nQABmVxdWFsc3NxAH4AC8cGcjx0AAtqc29uRm9ybWF0NnNxAH4AC0O/6mN0ABJVc2VyRW50aXR5UHJvdG9jb2xzcQB+AAu4PGKzdAAMYXNJbnN0YW5jZU9mc3EAfgAL0uXJLnQADGpzb25Gb3JtYXQxNXNxAH4AC/0xyjN0AAJKRnNxAH4AC22mubd0AAxzeW5jaHJvbml6ZWRzcQB+AAsS4ubGdAAManNvbkZvcm1hdDExc3EAfgALSxr+AHQADSRpc0luc3RhbmNlT2ZzcQB+AAu6mcDLdAALanNvbkZvcm1hdDVzcQB+AAuQxIE/dAAManNvbkZvcm1hdDIxc3EAfgALEbxNLXQAFHByb2R1Y3RFbGVtZW50MkZpZWxkc3EAfgALQpmAKHQACnJvb3RGb3JtYXRzcQB+AAsomNrodAAecHJvZHVjdEVsZW1lbnQyRmllbGQkZGVmYXVsdCQ0c3EAfgALO8wH4XQADGpzb25Gb3JtYXQxNHNxAH4AC8PhfYJ0AAhjYW5FcXVhbHNxAH4AC7eQSdt0AAtqc29uRm9ybWF0MXNxAH4ACzTGVSh0AA5yb290SnNvbkZvcm1hdHNxAH4AC0U5jlZ0AA1wcm9kdWN0UHJlZml4c3EAfgAL7RVevHQADGpzb25Gb3JtYXQxOXNxAH4AC10TmoN0AAlub3RpZnlBbGxzcQB+AAtujlZDdAAIZGVsZWdhdGVzcQB+AAsAvzmudAAMaXNJbnN0YW5jZU9mc3EAfgALDMOmd3QACHdyaXRlVHJ5c3EAfgALOPODM3QABjxpbml0PnNxAH4AC5D0X190AAJpZHNxAH4AC7mjiIh0AAVhcHBseXNxAH4AC5bOQ3R0AAtqc29uRm9ybWF0NHNxAH4AC6fTPDh0AAI9PXNxAH4ACwOBXpR0AAVjbG9uZXNxAH4ACxm/O7l0AAxqc29uRm9ybWF0MTBzcQB+AAvhYU74dAALanNvbkZvcm1hdDBzcQB+AAtQXkeBdAAManNvbkZvcm1hdDIyc3EAfgALo5dCTXQADE9wdGlvbkZvcm1hdHNxAH4ACxH/x+d0AAxqc29uRm9ybWF0MThzcQB+AAt8b69xdAAGJGluaXQkc3EAfgALqetSU3QADmNvcHkkZGVmYXVsdCQzc3EAfgALJYf3fHQABGNvcHlzcQB+AAuMmpszdAAPYXBwbHkkZGVmYXVsdCQxc3EAfgALDAFf2HQACHRvU3RyaW5nc3EAfgALydAXNnQACmpzb25Gb3JtYXRzcQB+AAvyp9wWdAACIT1zcQB+AAs5Kxk+dAALanNvbkZvcm1hdDhzcQB+AAsmMDEfdAAIZ2V0Q2xhc3NzcQB+AAuIIHl0dAAOY29weSRkZWZhdWx0JDFzcQB+AAuIZWOldAAHcmVhZE9wdHNxAH4ACxM65TN0AApVc2VyRW50aXR5c3EAfgAL9pvjsXQAAm5lc3EAfgALW3NlXXQABGxpZnRzcQB+AAtmhISTdAALanNvbkZvcm1hdDNzcQB+AAsI0jSKdAACZXFzcQB+AAtJBy/pdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALoMRLnnQABXdyaXRlc3EAfgALPJR74HQACnNhZmVSZWFkZXJzcQB+AAvf8EOMdAACIyNzcQB+AAtocPaYdAAIZmluYWxpemVzcQB+AAs3B8M7dAAHcmVhZFRyeXNxAH4AC0FcYrZ0AA5wcm9kdWN0RWxlbWVudHNxAH4AC7aJY6V0AAhoYXNoQ29kZXNxAH4ACx81iGZ0ABFleHRyYWN0RmllbGROYW1lc3NxAH4AC9DMCwx0AAxqc29uRm9ybWF0MTdzcQB+AAun+1T/dAAIcGFzc3dvcmRzcQB+AAuNuwbddAALanNvbkZvcm1hdDdzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAADc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgETeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAgY29tLnBhY2t0LmFra2EubW9kZWxzLlVzZXJFbnRpdHl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4BK3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgETTAAJaW5oZXJpdGVkcQB+ARNMAAdwYXJlbnRzcQB+ARN4cQB+ATBzcQB+ASt1cQB+AQ4AAAAAc3EAfgErdXEAfgEOAAAAAHNxAH4BK3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4BL3QADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4BL3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4BSXNxAH4BPHEAfgE/c3EAfgFAc3EAfgFDdXEAfgFGAAAAA3NxAH4BSHQABGphdmFzcQB+AUh0AAJpb3EAfgFNc3EAfgE8dAAHUHJvZHVjdHEAfgFCc3EAfgE8dAAGRXF1YWxzcQB+AUJzcQB+ATx0AAZPYmplY3RzcQB+AUBzcQB+AUN1cQB+AUYAAAADc3EAfgFIcQB+AVNzcQB+AUh0AARsYW5ncQB+AU1zcQB+ATx0AANBbnlxAH4BQnNxAH4BEHEAfgEddXEAfgEeAAAAAHNxAH4BIAB0ACBjb20ucGFja3QuYWtrYS5tb2RlbHMuVXNlckVudGl0eXVxAH4BIwAAAAB+cQB+ASV0AAZNb2R1bGV1cQB+ASkAAAAAc3EAfgErcQB+ATFzcQB+AStzcQB+ATNzcQB+ASt1cQB+AQ4AAAAAc3EAfgErdXEAfgEOAAAAAHNxAH4BK3VxAH4BOgAAAARzcQB+ATxxAH4BP3NxAH4BQHNxAH4BQ3VxAH4BRgAAAAJzcQB+AUhxAH4BS3EAfgFNc3EAfgE8cQB+AT9zcQB+AUBzcQB+AUN1cQB+AUYAAAADc3EAfgFIcQB+AVNzcQB+AUh0AAJpb3EAfgFNc3EAfgE8cQB+AVtzcQB+AUBzcQB+AUN1cQB+AUYAAAADc3EAfgFIcQB+AVNzcQB+AUhxAH4BYXEAfgFNc3EAfgE8cQB+AWNxAH4BdnNxAH4BEHEAfgEddXEAfgEeAAAAAHNxAH4BIAB0AChjb20ucGFja3QuYWtrYS5tb2RlbHMuVXNlckVudGl0eVByb3RvY29sdXEAfgEjAAAAAHEAfgFpdXEAfgEpAAAAAHNxAH4BK3EAfgExc3EAfgErc3EAfgEzc3EAfgErdXEAfgEOAAAAAHNxAH4BK3VxAH4BDgAAAABzcQB+ASt1cQB+AToAAAAJc3EAfgE8dAATRGVmYXVsdEpzb25Qcm90b2NvbHNxAH4BQHNxAH4BQ3VxAH4BRgAAAANzcQB+AUh0AAVzcHJheXNxAH4BSHQABGpzb25xAH4BTXNxAH4BPHQAEUFkZGl0aW9uYWxGb3JtYXRzcQB+AZlzcQB+ATx0AA5Qcm9kdWN0Rm9ybWF0c3EAfgGZc3EAfgE8dAAXUHJvZHVjdEZvcm1hdHNJbnN0YW5jZXNxAH4BmXNxAH4BPHQAEUNvbGxlY3Rpb25Gb3JtYXRzcQB+AZlzcQB+ATx0AA9TdGFuZGFyZEZvcm1hdHNxAH4BmXNxAH4BPHQADEJhc2ljRm9ybWF0c3EAfgGZc3EAfgE8cQB+AVtzcQB+AUBzcQB+AUN1cQB+AUYAAAADc3EAfgFIcQB+AVNzcQB+AUhxAH4BYXEAfgFNc3EAfgE8cQB+AWNzcQB+AUBzcQB+AUN1cQB+AUYAAAACc3EAfgFIcQB+AUtxAH4BTXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQACWNvbS5wYWNrdHNxAH4BuXQAFWNvbS5wYWNrdC5ha2thLm1vZGVsc3NxAH4BuXQADmNvbS5wYWNrdC5ha2thc3EAfgG5dAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFTuQPJIHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AE4vbWVkaWEvYWJhbm91Yi9FNDNDNjkwOTNDNjhEN0Q2L0lUSSBPUy9Ba2thL3Jlc3QtYXBpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRoUo5INSJKtZ+ihwwKdcrjIfw83g==
+external apis:
+0 items
+source infos:
+9 items
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/Api.scala -> 
+AAAAAAAAAAA=
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> 
+AAAAAAAAAAA=
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> 
+AAAAAAAAAAA=
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/TweetManager.scala -> 
+AAAAAAAAAAA=
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> 
+AAAAAAAAAAA=
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/Tweet.scala -> 
+AAAAAAAAAAA=
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/TweetEntity.scala -> 
+AAAAAAAAAAA=
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/User.scala -> 
+AAAAAAAAAAA=
+/media/abanoub/E43C69093C68D7D6/ITI OS/Akka/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> 
+AAAAAAAAAAA=
+compilations:
+6 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU7kDySB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATi9tZWRpYS9hYmFub3ViL0U0M0M2OTA5M0M2OEQ3RDYvSVRJIE9TL0Fra2EvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU7kHGX11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATi9tZWRpYS9hYmFub3ViL0U0M0M2OTA5M0M2OEQ3RDYvSVRJIE9TL0Fra2EvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU7kPCYl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATi9tZWRpYS9hYmFub3ViL0U0M0M2OTA5M0M2OEQ3RDYvSVRJIE9TL0Fra2EvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU7kPKj91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATi9tZWRpYS9hYmFub3ViL0U0M0M2OTA5M0M2OEQ3RDYvSVRJIE9TL0Fra2EvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU7kSsvF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATi9tZWRpYS9hYmFub3ViL0U0M0M2OTA5M0M2OEQ3RDYvSVRJIE9TL0Fra2EvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU7kaHoh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATi9tZWRpYS9hYmFub3ViL0U0M0M2OTA5M0M2OEQ3RDYvSVRJIE9TL0Fra2EvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
